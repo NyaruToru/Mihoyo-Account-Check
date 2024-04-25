@@ -58,53 +58,8 @@
   </tr>
   <tr></tr>
 </table>
-<p align="center">
-  <b>Display GitHub Action Badge</b>
-  <a
-    href="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/actions/workflows/main.yml"
-    ><img
-      align="center"
-      src="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/actions/workflows/main.yml/badge.svg"
-  /></a>
-</p>
-<p align="center">
-  <a
-    href="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/blob/master/README.md"
-    >Readme</a
-  >
-  •
-  <a
-    href="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/blob/master/tutorial/README_INFO.md"
-    >Readme Info</a
-  >
-  •
-  <a
-    href="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/blob/master/.gitignore"
-    >Gitignore</a
-  >
-  •
-  <a
-    href="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/blob/master/requirements.txt"
-    >Requirements</a
-  >
-  •
-  <a
-    href="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/blob/master/main.py"
-    >main.py</a
-  >
-  •
-  <a
-    href="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/blob/master/files/redeemed_codes_genshin.txt"
-    >Codes Genshin</a
-  >
-  •
-  <a
-    href="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats/blob/master/files/redeemed_codes_hkrpg.txt"
-    >Codes StarRail</a
-  >
-</p>
 <h3 align="center">
-  🕒 Updated at <u>Apr 25, 2024 11:28 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Apr 25, 2024 11:36 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -9830,7 +9785,7 @@
   </tr>
   <tr>
     <td align="center"><b>Asia Server</b></td>
-    <td align="center"><b>UID 825098452</b></td>
+    <td align="center"><b>UID Hide</b></td>
   </tr>
 </table>
 
