@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Apr 25, 2024 19:22 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Apr 26, 2024 08:02 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -117,22 +117,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>3</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>4</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Mora</b>
+      <b>20 x Primogem</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-04-25 12:05:24+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-04-26 09:02:29+08:00</b></td>
   </tr>
 </table>
 
@@ -159,7 +159,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>801</b></td>
+    <td align="center"><b>802</b></td>
   </tr>
   <tr>
     <td>
@@ -170,7 +170,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>977</b></td>
+    <td align="center"><b>978</b></td>
   </tr>
   <tr>
     <td>
@@ -226,7 +226,7 @@
       />
       Dendroculus
     </td>
-    <td align="center"><b>194</b></td>
+    <td align="center"><b>196</b></td>
   </tr>
   <tr>
     <td>
@@ -244,14 +244,14 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>2070</b></td>
+    <td align="center"><b>2086</b></td>
   </tr>
   <tr>
     <td>
       <img src="./images/logo/Exquisite-Chest.webp" , height="18" /> Exquisite
       Chests Opened
     </td>
-    <td align="center"><b>1389</b></td>
+    <td align="center"><b>1391</b></td>
   </tr>
   <tr>
     <td>
@@ -534,7 +534,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/80/" width="80" />
+            <img src="https://progress-bar.dev/81/" width="80" />
           </td>
         </tr>
         <tr>
@@ -748,7 +748,8 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="./images/logo/floor.webp" , height="18" /> Max Floor: <b>9-3</b>
+      <img src="./images/logo/floor.webp" , height="18" /> Max Floor:
+      <b>10-3</b>
     </td>
     <td align="center">
       <img src="./images/logo/battle.webp" , height="18" /> Total Battles:
@@ -760,7 +761,7 @@
       <img src="./images/logo/wins.webp" , height="18" /> Total Wins: <b>6</b>
     </td>
     <td align="center">
-      <img src="./images/logo/star.png" , height="18" /> Total Stars: <b>9</b>
+      <img src="./images/logo/star.png" , height="18" /> Total Stars: <b>18</b>
     </td>
   </tr>
   <tr>
@@ -776,27 +777,23 @@
   <tr>
     <td>Most Played Characters</td>
     <td>
-      <img
+      <img src="https://enka.network/ui/UI_AvatarIcon_Yae.png" , height="18" />
+      <b>Yae Miko</b> <code>(6)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
       <b>Zhongli</b> <code>(6)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      <b>Kaedehara Kazuha</b> <code>(6)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
       />
       <b>Baizhu</b> <code>(6)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Yae.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      <b>Yae Miko</b> <code>(6)</code><br />
+      <b>Kaedehara Kazuha</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
@@ -9888,22 +9885,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>10</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>11</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Adventure Log</b>
+      <b>2 x Lost Gold Fragment</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-04-25 12:05:26+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-04-26 09:02:30+08:00</b></td>
   </tr>
 </table>
 
@@ -9921,7 +9918,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>348</b></td>
+    <td><b>349</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9933,7 +9930,7 @@
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td><b>570</b></td>
+    <td><b>571</b></td>
   </tr>
 </table>
 
@@ -9946,7 +9943,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>8482</b> <code>(rate -46)</code></td>
+    <td align="center"><b>8572</b> <code>(rate -46)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9967,11 +9964,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>3690</b> <code>(43%)</code><br />Adventure Rewards:
+      Daily Activity: <b>3780</b> <code>(44%)</code><br />Adventure Rewards:
       <b>1480</b> <code>(17%)</code><br />Forgotten Hall: <b>1440</b>
       <code>(16%)</code><br />Simulated Universe: <b>1070</b> <code>(12%)</code
       ><br />Event: <b>570</b> <code>(6%)</code><br />Other: <b>62</b>
-      <code>(4%)</code><br />Mail: <b>170</b> <code>(2%)</code><br />
+      <code>(4%)</code><br />Mail: <b>170</b> <code>(1%)</code><br />
     </td>
   </tr>
 </table>
