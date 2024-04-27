@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Apr 27, 2024 08:01 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Apr 27, 2024 19:23 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -753,7 +753,7 @@
     </td>
     <td align="center">
       <img src="./images/logo/battle.webp" , height="18" /> Total Battles:
-      <b>6</b>
+      <b>9</b>
     </td>
   </tr>
   <tr>
@@ -778,16 +778,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      <b>Zhongli</b> <code>(6)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Yae.png"
-        ,
-        height="18"
-      />
-      <b>Yae Miko</b> <code>(6)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
@@ -797,7 +787,17 @@
         ,
         height="18"
       />
-      <b>Baizhu</b> <code>(6)</code><br />
+      <b>Baizhu</b> <code>(6)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Yae.png"
+        ,
+        height="18"
+      />
+      <b>Yae Miko</b> <code>(6)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      <b>Zhongli</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
@@ -873,7 +873,7 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>711277</b> <code>(rate -54)</code></td>
+    <td align="center"><b>741277</b> <code>(rate -52)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -1237,11 +1237,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/33f1fb632f7f1e8e19ff64cb12d1d579.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/2fbb249871ba887d84a3af243a003bc0.png"
             ,
             height="20"
           />
-          Deathmatch
+          Favonius Lance
         </h3>
       </th>
     </tr>
@@ -1258,7 +1258,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/33f1fb632f7f1e8e19ff64cb12d1d579.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/2fbb249871ba887d84a3af243a003bc0.png"
             ,
             height="256"
           />
@@ -1349,7 +1349,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Deathmatch</td>
+            <td align="center">Favonius Lance</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -1361,15 +1361,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+90</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>6</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>3</code></td>
+            <td align="center"><code>4</code></td>
           </tr>
         </table>
       </td>
@@ -1563,11 +1563,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/1e75ed5685d0be719b2f322c13b1f8ab.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/33f1fb632f7f1e8e19ff64cb12d1d579.png"
             ,
             height="20"
           />
-          Crescent Pike
+          Deathmatch
         </h3>
       </th>
     </tr>
@@ -1584,7 +1584,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/1e75ed5685d0be719b2f322c13b1f8ab.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/33f1fb632f7f1e8e19ff64cb12d1d579.png"
             ,
             height="256"
           />
@@ -1675,7 +1675,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Crescent Pike</td>
+            <td align="center">Deathmatch</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -1687,15 +1687,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+1</code></td>
+            <td align="center"><code>+90</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>0</code></td>
+            <td align="center"><code>6</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>3</code></td>
           </tr>
         </table>
       </td>
@@ -2757,7 +2757,7 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />3 x Deepwood Memories<br />1 x Gladiator's
+              Artifacts<br />4 x Deepwood Memories<br />1 x Gladiator's
               Finale<br />
             </td>
             <td align="center">
@@ -2789,7 +2789,14 @@
               />
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Lamp of the Lost<br />
+              Lamp of the Lost<br /><img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/936190b684103d74abd9b772288d63bf.png"
+                ,
+                height="25"
+              />
+              <code>+20</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Laurel Coronet<br />
             </td>
           </tr>
           <tr>
@@ -3400,7 +3407,7 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />1 x Ocean-Hued Clam<br />4 x Deepwood Memories<br />
+              Artifacts<br />1 x Ocean-Hued Clam<br />3 x Deepwood Memories<br />
             </td>
             <td align="center">
               <img
@@ -3431,14 +3438,7 @@
               />
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Lamp of the Lost<br /><img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/936190b684103d74abd9b772288d63bf.png"
-                ,
-                height="25"
-              />
-              <code>+20</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Laurel Coronet<br />
+              Lamp of the Lost<br />
             </td>
           </tr>
           <tr>
@@ -9926,7 +9926,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>349</b></td>
+    <td><b>350</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9934,7 +9934,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>473</b></td>
+    <td><b>475</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -9951,7 +9951,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>11962</b> <code>(rate -25)</code></td>
+    <td align="center"><b>12387</b> <code>(rate -22)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9961,7 +9961,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>35</b> <code>(rate -18)</code></td>
+    <td align="center"><b>36</b> <code>(rate -16)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9972,10 +9972,10 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>3840</b> <code>(32%)</code><br />Mail: <b>2270</b>
-      <code>(18%)</code><br />Adventure Rewards: <b>2030</b> <code>(16%)</code
-      ><br />Forgotten Hall: <b>1440</b> <code>(12%)</code><br />Other:
-      <b>742</b> <code>(10%)</code><br />Simulated Universe: <b>1070</b>
+      Daily Activity: <b>3990</b> <code>(32%)</code><br />Adventure Rewards:
+      <b>2275</b> <code>(18%)</code><br />Mail: <b>2300</b> <code>(18%)</code
+      ><br />Forgotten Hall: <b>1440</b> <code>(11%)</code><br />Other:
+      <b>742</b> <code>(9%)</code><br />Simulated Universe: <b>1070</b>
       <code>(8%)</code><br />Event: <b>570</b> <code>(4%)</code><br />
     </td>
   </tr>
@@ -10004,7 +10004,7 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td align="center"><b>36</b></td>
+    <td align="center"><b>42</b></td>
   </tr>
   <tr>
     <td>Total Stars</td>
@@ -10022,7 +10022,7 @@
   </tr>
   <tr>
     <td>Cycles used</td>
-    <td align="center"><b>10</b></td>
+    <td align="center"><b>9</b></td>
   </tr>
   <tr>
     <td>Party 1</td>
@@ -10055,7 +10055,7 @@
         src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/bff3738e5c5244daba1dedf7ea1c5750.png"
         height="18"
       /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/846152003989a0d1b61e1d62c415e501.png"
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/90299bf3d7bd583e703b8830e7b56e6f.png"
         height="18"
       />
     </td>
@@ -10473,10 +10473,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/dd8e68e12b29b3fed85afb85a90d5445.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/9a1954be8d1f7b0a0bf931d7b0f92444.png"
             height="20"
           />
-          Moment of Victory
+          Trend of the Universal Market
         </h3>
       </th>
     </tr>
@@ -10491,7 +10491,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/dd8e68e12b29b3fed85afb85a90d5445.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/9a1954be8d1f7b0a0bf931d7b0f92444.png"
           />
         </p>
       </td>
@@ -10539,13 +10539,13 @@
               <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
               Musketeer's Coarse Leather Gloves<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/21693591cde47e879d0ff340e43e4c3d.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/c27c0218cf96a064a2103f4be341fe3a.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Musketeer's Wind-Hunting Shawl<br /><img
+              Passerby's Ragged Embroided Coat<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/5e4f2d51437e4500fc4edac83a1ee038.png"
                 ,
                 height="25"
@@ -10581,7 +10581,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Moment of Victory</td>
+            <td align="center">Trend of the Universal Market</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -10589,7 +10589,7 @@
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -11053,10 +11053,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/9a1954be8d1f7b0a0bf931d7b0f92444.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/dd8e68e12b29b3fed85afb85a90d5445.png"
             height="20"
           />
-          Trend of the Universal Market
+          Moment of Victory
         </h3>
       </th>
     </tr>
@@ -11071,7 +11071,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/9a1954be8d1f7b0a0bf931d7b0f92444.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/dd8e68e12b29b3fed85afb85a90d5445.png"
           />
         </p>
       </td>
@@ -11161,7 +11161,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Trend of the Universal Market</td>
+            <td align="center">Moment of Victory</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -11169,7 +11169,7 @@
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -11844,20 +11844,20 @@
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Passerby's Roaming Dragon Bracer<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/c27c0218cf96a064a2103f4be341fe3a.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/21693591cde47e879d0ff340e43e4c3d.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Passerby's Ragged Embroided Coat<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/0a0c99f862ff83d07bb32b125a8291f3.png"
+              Musketeer's Wind-Hunting Shawl<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/5e4f2d51437e4500fc4edac83a1ee038.png"
                 ,
                 height="25"
               />
-              <code>+12</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Passerby's Stygian Hiking Boots<br />
+              Musketeer's Rivets Riding Boots<br />
             </td>
           </tr>
           <tr>
@@ -12357,13 +12357,13 @@
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Messenger's Holovisor<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/3360b4e69bde1c298cee6c745d35bd4a.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/9fcf7fbe01656a2a4379e33854503f52.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Messenger's Transformative Arm<br /><img
+              Eagle's Soaring Ring<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/a6167576ac99935aab467d19788cfc60.png"
                 ,
                 height="25"
@@ -12384,13 +12384,13 @@
             <td>Planar</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/983f978169040bfd468616849bd1929b.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/63f979b84a73d838149b15a7feb96e34.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Insumousu's Whalefall Ship<br /><img
+              The Xianzhou Luofu's Celestial Ark<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/e30c7906ae9bed4879c710d119f7aaf3.png"
                 ,
                 height="25"
@@ -12806,13 +12806,13 @@
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Musketeer's Wind-Hunting Shawl<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/5e4f2d51437e4500fc4edac83a1ee038.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/0a0c99f862ff83d07bb32b125a8291f3.png"
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+12</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Musketeer's Rivets Riding Boots<br />
+              Passerby's Stygian Hiking Boots<br />
             </td>
           </tr>
           <tr>
@@ -12930,54 +12930,54 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/b0b201cfe5fadbe9ca8efa0f44e4d529.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/f8baa5e07bfcf4ac13ba032846e84e7f.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Eagle's Beaked Helmet<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/9fcf7fbe01656a2a4379e33854503f52.png"
+              Messenger's Holovisor<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/3360b4e69bde1c298cee6c745d35bd4a.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Eagle's Soaring Ring<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/ac96fa3d44838f89cfda65bd54394617.png"
+              Messenger's Transformative Arm<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/a6167576ac99935aab467d19788cfc60.png"
+                ,
+                height="25"
+              />
+              <code>+12</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Messenger's Secret Satchel<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/69a4e4f9e9bc96877a5b4c0f09e4a53f.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Eagle's Winged Suit Harness<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/63915ab5df0f7c7c7e4f72890d711623.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Eagle's Quilted Puttees<br />
+              Messenger's Par-kool Sneakers<br />
             </td>
           </tr>
           <tr>
             <td>Planar</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/63f979b84a73d838149b15a7feb96e34.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/983f978169040bfd468616849bd1929b.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              The Xianzhou Luofu's Celestial Ark<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/303ad223b9818a3d30b21b68c0450d7d.png"
+              Insumousu's Whalefall Ship<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/e30c7906ae9bed4879c710d119f7aaf3.png"
                 ,
                 height="25"
               />
-              <code>+12</code><br />
-              ⭐⭐⭐⭐<br />
-              The Xianzhou Luofu's Ambrosial Arbor Vines<br />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Insumousu's Frayed Hawser<br />
             </td>
           </tr>
         </table>
