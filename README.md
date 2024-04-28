@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Apr 28, 2024 08:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Apr 28, 2024 19:26 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -749,19 +749,19 @@
   <tr>
     <td align="center">
       <img src="./images/logo/floor.webp" , height="18" /> Max Floor:
-      <b>11-3</b>
+      <b>12-2</b>
     </td>
     <td align="center">
       <img src="./images/logo/battle.webp" , height="18" /> Total Battles:
-      <b>13</b>
+      <b>16</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./images/logo/wins.webp" , height="18" /> Total Wins: <b>9</b>
+      <img src="./images/logo/wins.webp" , height="18" /> Total Wins: <b>11</b>
     </td>
     <td align="center">
-      <img src="./images/logo/star.png" , height="18" /> Total Stars: <b>27</b>
+      <img src="./images/logo/star.png" , height="18" /> Total Stars: <b>33</b>
     </td>
   </tr>
   <tr>
@@ -777,45 +777,41 @@
   <tr>
     <td>Most Played Characters</td>
     <td>
-      <img
+      <img src="https://enka.network/ui/UI_AvatarIcon_Yae.png" , height="18" />
+      <b>Yae Miko</b> <code>(9)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      <b>Kaedehara Kazuha</b> <code>(6)</code><br /><img
+      <b>Kaedehara Kazuha</b> <code>(9)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
       />
-      <b>Baizhu</b> <code>(6)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Yae.png"
-        ,
-        height="18"
-      />
-      <b>Yae Miko</b> <code>(6)</code><br /><img
+      <b>Baizhu</b> <code>(9)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      <b>Zhongli</b> <code>(6)</code><br />
+      <b>Zhongli</b> <code>(9)</code><br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img src="https://enka.network/ui/UI_AvatarIcon_Yae.png" , height="18" />
-      <b>Yae Miko</b> <code>(16)</code><br />
+      <b>Yae Miko</b> <code>(23)</code><br />
     </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      <b>Raiden Shogun</b> <code>(106705)</code><br />
+      <b>Hu Tao</b> <code>(134233)</code><br />
     </td>
   </tr>
   <tr>
@@ -826,21 +822,25 @@
         ,
         height="18"
       />
-      <b>Nahida</b> <code>(21252)</code><br />
+      <b>Nahida</b> <code>(63269)</code><br />
     </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
     <td>
-      <img src="https://enka.network/ui/UI_AvatarIcon_Yae.png" , height="18" />
-      <b>Yae Miko</b> <code>(6)</code><br />
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      <b>Kaedehara Kazuha</b> <code>(13)</code><br />
     </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
     <td>
       <img src="https://enka.network/ui/UI_AvatarIcon_Yae.png" , height="18" />
-      <b>Yae Miko</b> <code>(49)</code><br />
+      <b>Yae Miko</b> <code>(97)</code><br />
     </td>
   </tr>
 </table>
@@ -858,7 +858,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>1712</b> <code>(rate -29)</code></td>
+    <td align="center"><b>1842</b> <code>(rate -24)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -869,16 +869,16 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>891277</b> <code>(rate -43)</code></td>
+    <td align="center"><b>1094714</b> <code>(rate -30)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>820</b> <code>(48%)</code><br />Spiral Abyss: <b>450</b>
-      <code>(27%)</code><br />Events: <b>220</b> <code>(13%)</code><br />Daily
-      Activity: <b>160</b> <code>(9%)</code><br />Adventure: <b>62</b>
+      Mail: <b>820</b> <code>(45%)</code><br />Spiral Abyss: <b>450</b>
+      <code>(25%)</code><br />Events: <b>290</b> <code>(16%)</code><br />Daily
+      Activity: <b>220</b> <code>(11%)</code><br />Adventure: <b>62</b>
       <code>(3%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
       <b>0</b> <code>(0%)</code><br />
     </td>
@@ -1233,11 +1233,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/2fbb249871ba887d84a3af243a003bc0.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/6f25472754c1814e462991fe3014e7aa.png"
             ,
             height="20"
           />
-          Favonius Lance
+          Black Tassel
         </h3>
       </th>
     </tr>
@@ -1254,7 +1254,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/2fbb249871ba887d84a3af243a003bc0.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/6f25472754c1814e462991fe3014e7aa.png"
             ,
             height="256"
           />
@@ -1345,7 +1345,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Favonius Lance</td>
+            <td align="center">Black Tassel</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -1353,7 +1353,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -1365,7 +1365,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>4</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -4599,11 +4599,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/6f25472754c1814e462991fe3014e7aa.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/2fbb249871ba887d84a3af243a003bc0.png"
             ,
             height="20"
           />
-          Black Tassel
+          Favonius Lance
         </h3>
       </th>
     </tr>
@@ -4620,7 +4620,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/6f25472754c1814e462991fe3014e7aa.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/2fbb249871ba887d84a3af243a003bc0.png"
             ,
             height="256"
           />
@@ -4716,7 +4716,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Black Tassel</td>
+            <td align="center">Favonius Lance</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -4724,7 +4724,7 @@
           </tr>
           <tr>
             <td>Rarity</td>
-            <td align="center">⭐⭐⭐</td>
+            <td align="center">⭐⭐⭐⭐</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -4736,7 +4736,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>4</code></td>
           </tr>
         </table>
       </td>
@@ -9947,7 +9947,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>12387</b> <code>(rate -22)</code></td>
+    <td align="center"><b>12557</b> <code>(rate -21)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9968,8 +9968,8 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>3990</b> <code>(32%)</code><br />Adventure Rewards:
-      <b>2275</b> <code>(18%)</code><br />Mail: <b>2300</b> <code>(18%)</code
+      Daily Activity: <b>4140</b> <code>(32%)</code><br />Adventure Rewards:
+      <b>2275</b> <code>(18%)</code><br />Mail: <b>2320</b> <code>(18%)</code
       ><br />Forgotten Hall: <b>1440</b> <code>(11%)</code><br />Other:
       <b>742</b> <code>(9%)</code><br />Simulated Universe: <b>1070</b>
       <code>(8%)</code><br />Event: <b>570</b> <code>(4%)</code><br />
