@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Apr 27, 2024 19:23 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Apr 28, 2024 08:07 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -117,22 +117,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>5</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>6</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Sweet Madame</b>
+      <b>2 x Adventurer's Experience</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-04-27 09:01:50+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-04-28 09:07:23+08:00</b></td>
   </tr>
 </table>
 
@@ -284,7 +284,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>10-3</b></td>
+    <td align="center"><b>11-3</b></td>
   </tr>
 </table>
 
@@ -749,19 +749,19 @@
   <tr>
     <td align="center">
       <img src="./images/logo/floor.webp" , height="18" /> Max Floor:
-      <b>10-3</b>
+      <b>11-3</b>
     </td>
     <td align="center">
       <img src="./images/logo/battle.webp" , height="18" /> Total Battles:
-      <b>9</b>
+      <b>13</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./images/logo/wins.webp" , height="18" /> Total Wins: <b>6</b>
+      <img src="./images/logo/wins.webp" , height="18" /> Total Wins: <b>9</b>
     </td>
     <td align="center">
-      <img src="./images/logo/star.png" , height="18" /> Total Stars: <b>18</b>
+      <img src="./images/logo/star.png" , height="18" /> Total Stars: <b>27</b>
     </td>
   </tr>
   <tr>
@@ -832,12 +832,8 @@
   <tr>
     <td>Elemental Bursts Unleashed</td>
     <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      <b>Kaedehara Kazuha</b> <code>(6)</code><br />
+      <img src="https://enka.network/ui/UI_AvatarIcon_Yae.png" , height="18" />
+      <b>Yae Miko</b> <code>(6)</code><br />
     </td>
   </tr>
   <tr>
@@ -862,7 +858,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>1562</b> <code>(rate -35)</code></td>
+    <td align="center"><b>1712</b> <code>(rate -29)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -873,16 +869,16 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>741277</b> <code>(rate -52)</code></td>
+    <td align="center"><b>891277</b> <code>(rate -43)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>820</b> <code>(53%)</code><br />Spiral Abyss: <b>300</b>
-      <code>(20%)</code><br />Events: <b>220</b> <code>(14%)</code><br />Daily
-      Activity: <b>160</b> <code>(10%)</code><br />Adventure: <b>62</b>
+      Mail: <b>820</b> <code>(48%)</code><br />Spiral Abyss: <b>450</b>
+      <code>(27%)</code><br />Events: <b>220</b> <code>(13%)</code><br />Daily
+      Activity: <b>160</b> <code>(9%)</code><br />Adventure: <b>62</b>
       <code>(3%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
       <b>0</b> <code>(0%)</code><br />
     </td>
@@ -9893,22 +9889,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>12</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>13</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Condensed Aether</b>
+      <b>20 x Stellar Jade</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-04-27 01:08:13+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-04-28 09:07:25+08:00</b></td>
   </tr>
 </table>
 
@@ -9926,7 +9922,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>350</b></td>
+    <td><b>351</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
