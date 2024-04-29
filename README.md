@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Apr 28, 2024 19:26 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Apr 29, 2024 08:04 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -117,22 +117,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>6</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>7</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Adventurer's Experience</b>
+      <b>8000 x Mora</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-04-28 09:07:23+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-04-29 09:04:01+08:00</b></td>
   </tr>
 </table>
 
@@ -170,7 +170,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>979</b></td>
+    <td align="center"><b>980</b></td>
   </tr>
   <tr>
     <td>
@@ -284,7 +284,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>11-3</b></td>
+    <td align="center"><b>12-2</b></td>
   </tr>
 </table>
 
@@ -753,7 +753,7 @@
     </td>
     <td align="center">
       <img src="./images/logo/battle.webp" , height="18" /> Total Battles:
-      <b>16</b>
+      <b>17</b>
     </td>
   </tr>
   <tr>
@@ -778,17 +778,17 @@
     <td>Most Played Characters</td>
     <td>
       <img src="https://enka.network/ui/UI_AvatarIcon_Yae.png" , height="18" />
-      <b>Yae Miko</b> <code>(9)</code><br /><img
+      <b>Yae Miko</b> <code>(11)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      <b>Kaedehara Kazuha</b> <code>(9)</code><br /><img
+      <b>Kaedehara Kazuha</b> <code>(11)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
       />
-      <b>Baizhu</b> <code>(9)</code><br /><img
+      <b>Baizhu</b> <code>(11)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
@@ -800,18 +800,18 @@
     <td>Most Defeats</td>
     <td>
       <img src="https://enka.network/ui/UI_AvatarIcon_Yae.png" , height="18" />
-      <b>Yae Miko</b> <code>(23)</code><br />
+      <b>Yae Miko</b> <code>(32)</code><br />
     </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Hutao.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      <b>Hu Tao</b> <code>(134233)</code><br />
+      <b>Raiden Shogun</b> <code>(499409)</code><br />
     </td>
   </tr>
   <tr>
@@ -822,7 +822,7 @@
         ,
         height="18"
       />
-      <b>Nahida</b> <code>(63269)</code><br />
+      <b>Nahida</b> <code>(86829)</code><br />
     </td>
   </tr>
   <tr>
@@ -833,14 +833,14 @@
         ,
         height="18"
       />
-      <b>Kaedehara Kazuha</b> <code>(13)</code><br />
+      <b>Kaedehara Kazuha</b> <code>(16)</code><br />
     </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
     <td>
       <img src="https://enka.network/ui/UI_AvatarIcon_Yae.png" , height="18" />
-      <b>Yae Miko</b> <code>(97)</code><br />
+      <b>Yae Miko</b> <code>(112)</code><br />
     </td>
   </tr>
 </table>
@@ -858,7 +858,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>1842</b> <code>(rate -24)</code></td>
+    <td align="center"><b>1942</b> <code>(rate -19)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -869,15 +869,15 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1094714</b> <code>(rate -30)</code></td>
+    <td align="center"><b>1159714</b> <code>(rate -26)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>820</b> <code>(45%)</code><br />Spiral Abyss: <b>450</b>
-      <code>(25%)</code><br />Events: <b>290</b> <code>(16%)</code><br />Daily
+      Mail: <b>820</b> <code>(43%)</code><br />Spiral Abyss: <b>550</b>
+      <code>(29%)</code><br />Events: <b>290</b> <code>(14%)</code><br />Daily
       Activity: <b>220</b> <code>(11%)</code><br />Adventure: <b>62</b>
       <code>(3%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
       <b>0</b> <code>(0%)</code><br />
@@ -9889,22 +9889,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>13</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>14</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           ,
           height="80" /></a
       ><br />
-      <b>20 x Stellar Jade</b>
+      <b>5000 x Credit</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-04-28 09:07:25+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-04-29 09:04:02+08:00</b></td>
   </tr>
 </table>
 
@@ -9922,7 +9922,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>351</b></td>
+    <td><b>352</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9947,7 +9947,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>12557</b> <code>(rate -21)</code></td>
+    <td align="center"><b>13362</b> <code>(rate -16)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9957,7 +9957,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>36</b> <code>(rate -16)</code></td>
+    <td align="center"><b>37</b> <code>(rate -13)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9968,10 +9968,10 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>4140</b> <code>(32%)</code><br />Adventure Rewards:
-      <b>2275</b> <code>(18%)</code><br />Mail: <b>2320</b> <code>(18%)</code
-      ><br />Forgotten Hall: <b>1440</b> <code>(11%)</code><br />Other:
-      <b>742</b> <code>(9%)</code><br />Simulated Universe: <b>1070</b>
+      Daily Activity: <b>4290</b> <code>(32%)</code><br />Adventure Rewards:
+      <b>2275</b> <code>(17%)</code><br />Mail: <b>2320</b> <code>(17%)</code
+      ><br />Forgotten Hall: <b>1980</b> <code>(14%)</code><br />Simulated
+      Universe: <b>1185</b> <code>(8%)</code><br />Other: <b>742</b>
       <code>(8%)</code><br />Event: <b>570</b> <code>(4%)</code><br />
     </td>
   </tr>
@@ -10997,13 +10997,13 @@
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Salsotto's Moving City<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/f4cb11c6318041aa193a01713c6610e3.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/c04890a81367dc00766483320173520e.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Salsotto's Terminator Line<br />
+              Glamoth's Silent Tombstone<br />
             </td>
           </tr>
         </table>
@@ -12012,13 +12012,13 @@
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Salsotto's Moving City<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/f4cb11c6318041aa193a01713c6610e3.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/e95981c4a6dcb7d1af9ae882fcafcf78.png"
                 ,
                 height="25"
               />
-              <code>+10</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Salsotto's Terminator Line<br />
+              Taikiyan's Arclight Race Track<br />
             </td>
           </tr>
         </table>
@@ -13207,13 +13207,13 @@
               <code>+12</code><br />
               ⭐⭐⭐⭐⭐<br />
               Salsotto's Moving City<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/e95981c4a6dcb7d1af9ae882fcafcf78.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/f4cb11c6318041aa193a01713c6610e3.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Taikiyan's Arclight Race Track<br />
+              Salsotto's Terminator Line<br />
             </td>
           </tr>
         </table>
@@ -13910,13 +13910,13 @@
               <code>+14</code><br />
               ⭐⭐⭐⭐⭐<br />
               Salsotto's Moving City<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/c04890a81367dc00766483320173520e.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/f4cb11c6318041aa193a01713c6610e3.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Glamoth's Silent Tombstone<br />
+              Salsotto's Terminator Line<br />
             </td>
           </tr>
         </table>
