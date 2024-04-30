@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Apr 29, 2024 19:27 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Apr 30, 2024 08:02 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -117,22 +117,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>7</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>8</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      <b>8000 x Mora</b>
+      <b>3 x Adventurer's Experience</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-04-29 09:04:01+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-04-30 09:02:43+08:00</b></td>
   </tr>
 </table>
 
@@ -170,7 +170,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>980</b></td>
+    <td align="center"><b>981</b></td>
   </tr>
   <tr>
     <td>
@@ -284,7 +284,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>12-2</b></td>
+    <td align="center"><b>12-3</b></td>
   </tr>
 </table>
 
@@ -749,19 +749,19 @@
   <tr>
     <td align="center">
       <img src="./images/logo/floor.webp" , height="18" /> Max Floor:
-      <b>12-2</b>
+      <b>12-3</b>
     </td>
     <td align="center">
       <img src="./images/logo/battle.webp" , height="18" /> Total Battles:
-      <b>17</b>
+      <b>24</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./images/logo/wins.webp" , height="18" /> Total Wins: <b>11</b>
+      <img src="./images/logo/wins.webp" , height="18" /> Total Wins: <b>15</b>
     </td>
     <td align="center">
-      <img src="./images/logo/star.png" , height="18" /> Total Stars: <b>33</b>
+      <img src="./images/logo/star.png" , height="18" /> Total Stars: <b>36</b>
     </td>
   </tr>
   <tr>
@@ -777,30 +777,34 @@
   <tr>
     <td>Most Played Characters</td>
     <td>
-      <img src="https://enka.network/ui/UI_AvatarIcon_Yae.png" , height="18" />
-      <b>Yae Miko</b> <code>(11)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
-        ,
-        height="18"
-      />
-      <b>Baizhu</b> <code>(11)</code><br /><img
+      <img
         src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      <b>Kaedehara Kazuha</b> <code>(11)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
+      <b>Kaedehara Kazuha</b> <code>(15)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Yae.png"
         ,
         height="18"
       />
-      <b>Zhongli</b> <code>(9)</code><br />
+      <b>Yae Miko</b> <code>(15)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
+        ,
+        height="18"
+      />
+      <b>Baizhu</b> <code>(14)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
+        ,
+        height="18"
+      />
+      <b>Furina</b> <code>(12)</code><br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img src="https://enka.network/ui/UI_AvatarIcon_Yae.png" , height="18" />
-      <b>Yae Miko</b> <code>(32)</code><br />
+      <b>Yae Miko</b> <code>(41)</code><br />
     </td>
   </tr>
   <tr>
@@ -811,18 +815,18 @@
         ,
         height="18"
       />
-      <b>Raiden Shogun</b> <code>(499409)</code><br />
+      <b>Raiden Shogun</b> <code>(689541)</code><br />
     </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Nilou.png"
         ,
         height="18"
       />
-      <b>Nahida</b> <code>(86829)</code><br />
+      <b>Nilou</b> <code>(145573)</code><br />
     </td>
   </tr>
   <tr>
@@ -833,14 +837,14 @@
         ,
         height="18"
       />
-      <b>Kaedehara Kazuha</b> <code>(16)</code><br />
+      <b>Kaedehara Kazuha</b> <code>(24)</code><br />
     </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
     <td>
       <img src="https://enka.network/ui/UI_AvatarIcon_Yae.png" , height="18" />
-      <b>Yae Miko</b> <code>(112)</code><br />
+      <b>Yae Miko</b> <code>(142)</code><br />
     </td>
   </tr>
 </table>
@@ -858,7 +862,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>1942</b> <code>(rate -19)</code></td>
+    <td align="center"><b>2072</b> <code>(rate -14)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -869,17 +873,17 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1159714</b> <code>(rate -26)</code></td>
+    <td align="center"><b>1417564</b> <code>(rate -9)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>820</b> <code>(43%)</code><br />Spiral Abyss: <b>550</b>
-      <code>(29%)</code><br />Events: <b>290</b> <code>(14%)</code><br />Daily
-      Activity: <b>220</b> <code>(11%)</code><br />Adventure: <b>62</b>
-      <code>(3%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
+      Mail: <b>830</b> <code>(41%)</code><br />Spiral Abyss: <b>600</b>
+      <code>(29%)</code><br />Events: <b>360</b> <code>(18%)</code><br />Daily
+      Activity: <b>220</b> <code>(10%)</code><br />Adventure: <b>62</b>
+      <code>(2%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
       <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
@@ -9889,22 +9893,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>14</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>15</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Credit</b>
+      <b>1 x Energy Drink (sugar-free)</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-04-29 09:04:02+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-04-30 00:00:16+08:00</b></td>
   </tr>
 </table>
 
@@ -9922,7 +9926,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>352</b></td>
+    <td><b>353</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9947,7 +9951,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>13557</b> <code>(rate -15)</code></td>
+    <td align="center"><b>13767</b> <code>(rate -13)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9968,11 +9972,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>4290</b> <code>(31%)</code><br />Mail: <b>2340</b>
-      <code>(17%)</code><br />Adventure Rewards: <b>2280</b> <code>(16%)</code
-      ><br />Forgotten Hall: <b>2040</b> <code>(15%)</code><br />Simulated
+      Daily Activity: <b>4380</b> <code>(31%)</code><br />Adventure Rewards:
+      <b>2280</b> <code>(16%)</code><br />Mail: <b>2340</b> <code>(16%)</code
+      ><br />Forgotten Hall: <b>2160</b> <code>(15%)</code><br />Simulated
       Universe: <b>1295</b> <code>(9%)</code><br />Other: <b>742</b>
-      <code>(8%)</code><br />Event: <b>570</b> <code>(4%)</code><br />
+      <code>(9%)</code><br />Event: <b>570</b> <code>(4%)</code><br />
     </td>
   </tr>
 </table>
@@ -11706,7 +11710,7 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Disciple's Celestial Silk Sandals<br />
             </td>
@@ -12584,10 +12588,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/820086cfd480696bd66a96240e623fe3.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/448bb7ba013347160e16f2f8358d13f5.png"
             height="20"
           />
-          Good Night and Sleep Well
+          In the Name of the World
         </h3>
       </th>
     </tr>
@@ -12602,7 +12606,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/820086cfd480696bd66a96240e623fe3.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/448bb7ba013347160e16f2f8358d13f5.png"
           />
         </p>
       </td>
@@ -12692,11 +12696,11 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Good Night and Sleep Well</td>
+            <td align="center">In the Name of the World</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+70</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
