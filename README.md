@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Apr 30, 2024 08:02 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Apr 30, 2024 19:26 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -170,7 +170,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>981</b></td>
+    <td align="center"><b>982</b></td>
   </tr>
   <tr>
     <td>
@@ -793,11 +793,11 @@
         height="18"
       />
       <b>Baizhu</b> <code>(14)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      <b>Furina</b> <code>(12)</code><br />
+      <b>Nahida</b> <code>(12)</code><br />
     </td>
   </tr>
   <tr>
@@ -862,7 +862,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>2072</b> <code>(rate -14)</code></td>
+    <td align="center"><b>2082</b> <code>(rate -14)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -873,16 +873,16 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1417564</b> <code>(rate -9)</code></td>
+    <td align="center"><b>1427362</b> <code>(rate -9)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>830</b> <code>(41%)</code><br />Spiral Abyss: <b>600</b>
+      Mail: <b>830</b> <code>(40%)</code><br />Spiral Abyss: <b>600</b>
       <code>(29%)</code><br />Events: <b>360</b> <code>(18%)</code><br />Daily
-      Activity: <b>220</b> <code>(10%)</code><br />Adventure: <b>62</b>
+      Activity: <b>230</b> <code>(11%)</code><br />Adventure: <b>62</b>
       <code>(2%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
       <b>0</b> <code>(0%)</code><br />
     </td>
@@ -9951,7 +9951,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>13767</b> <code>(rate -13)</code></td>
+    <td align="center"><b>13827</b> <code>(rate -13)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9972,11 +9972,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>4380</b> <code>(31%)</code><br />Adventure Rewards:
+      Daily Activity: <b>4440</b> <code>(32%)</code><br />Adventure Rewards:
       <b>2280</b> <code>(16%)</code><br />Mail: <b>2340</b> <code>(16%)</code
       ><br />Forgotten Hall: <b>2160</b> <code>(15%)</code><br />Simulated
       Universe: <b>1295</b> <code>(9%)</code><br />Other: <b>742</b>
-      <code>(9%)</code><br />Event: <b>570</b> <code>(4%)</code><br />
+      <code>(8%)</code><br />Event: <b>570</b> <code>(4%)</code><br />
     </td>
   </tr>
 </table>
@@ -10473,10 +10473,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/dd8e68e12b29b3fed85afb85a90d5445.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/9a1954be8d1f7b0a0bf931d7b0f92444.png"
             height="20"
           />
-          Moment of Victory
+          Trend of the Universal Market
         </h3>
       </th>
     </tr>
@@ -10491,7 +10491,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/dd8e68e12b29b3fed85afb85a90d5445.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/9a1954be8d1f7b0a0bf931d7b0f92444.png"
           />
         </p>
       </td>
@@ -10581,7 +10581,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Moment of Victory</td>
+            <td align="center">Trend of the Universal Market</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -10589,7 +10589,7 @@
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -11053,10 +11053,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/9a1954be8d1f7b0a0bf931d7b0f92444.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/dd8e68e12b29b3fed85afb85a90d5445.png"
             height="20"
           />
-          Trend of the Universal Market
+          Moment of Victory
         </h3>
       </th>
     </tr>
@@ -11071,7 +11071,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/9a1954be8d1f7b0a0bf931d7b0f92444.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/dd8e68e12b29b3fed85afb85a90d5445.png"
           />
         </p>
       </td>
@@ -11161,7 +11161,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Trend of the Universal Market</td>
+            <td align="center">Moment of Victory</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -11169,7 +11169,7 @@
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
