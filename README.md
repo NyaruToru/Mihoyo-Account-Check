@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>May 01, 2024 19:27 +0700</u> (🤖Automated)
+  🕒 Updated at <u>May 02, 2024 08:02 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -117,22 +117,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>1</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>2</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Adventurer's Experience</b>
+      <b>3 x Fine Enhancement Ore</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-01 09:07:34+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-05-02 09:02:37+08:00</b></td>
   </tr>
 </table>
 
@@ -170,7 +170,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>982</b></td>
+    <td align="center"><b>983</b></td>
   </tr>
   <tr>
     <td>
@@ -284,7 +284,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>-</b></td>
+    <td align="center"><b>8-3</b></td>
   </tr>
 </table>
 
@@ -793,11 +793,11 @@
         height="18"
       />
       <b>Baizhu</b> <code>(14)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      <b>Furina</b> <code>(12)</code><br />
+      <b>Nahida</b> <code>(12)</code><br />
     </td>
   </tr>
   <tr>
@@ -9893,22 +9893,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>1</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>2</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Adventure Log</b>
+      <b>1 x Condensed Aether</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-01 09:07:35+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-05-02 09:02:38+08:00</b></td>
   </tr>
 </table>
 
@@ -9926,7 +9926,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>354</b></td>
+    <td><b>355</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
