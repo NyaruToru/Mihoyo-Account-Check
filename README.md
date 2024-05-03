@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>May 02, 2024 19:27 +0700</u> (🤖Automated)
+  🕒 Updated at <u>May 03, 2024 08:05 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -117,22 +117,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>2</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>3</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Fine Enhancement Ore</b>
+      <b>5000 x Mora</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-02 09:02:37+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-05-03 09:05:41+08:00</b></td>
   </tr>
 </table>
 
@@ -9893,22 +9893,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>2</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>3</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           ,
           height="80" /></a
       ><br />
-      <b>1 x Condensed Aether</b>
+      <b>5000 x Credit</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-02 09:02:38+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-05-03 09:05:43+08:00</b></td>
   </tr>
 </table>
 
@@ -10960,27 +10960,27 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/fd1ac78416d057a6a17dafc75c07adef.png"
-                ,
-                height="25"
-              />
-              <code>+12</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Firesmith's Obsidian Goggles<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/6338c817ddc136e98775c7819053cf0e.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Watchmaker's Fortuitous Wristwatch<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/2de7a4a5ab53cae3cac1cdca348d078b.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/3b57e172e85a5cafe2fd5d437a2e5861.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Wastelander's Friar Robe<br /><img
+              Grand Duke's Crown of Netherflame<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/4743539e981dc65f75480796d85e8d9a.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Wastelander's Desert Terminal<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/e4325e2ee8e8dcaecc9e3605a5c2a8fe.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Grand Duke's Robe of Grace<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/e5ed160eabc45ce68dfb5ba2ca535485.png"
                 ,
                 height="25"
@@ -11001,13 +11001,13 @@
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Salsotto's Moving City<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/c04890a81367dc00766483320173520e.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/f4cb11c6318041aa193a01713c6610e3.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Glamoth's Silent Tombstone<br />
+              Salsotto's Terminator Line<br />
             </td>
           </tr>
         </table>
@@ -11393,57 +11393,7 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/3f35e6e63f78d609489a6b344a04e518.png"
-                ,
-                height="25"
-              />
-              <code>+10</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Musketeer's Wild Wheat Felt Hat<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/9c884fd1bd2c97cbe766ba759e748f35.png"
-                ,
-                height="25"
-              />
-              <code>+6</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Musketeer's Coarse Leather Gloves<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/21693591cde47e879d0ff340e43e4c3d.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Musketeer's Wind-Hunting Shawl<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/5e4f2d51437e4500fc4edac83a1ee038.png"
-                ,
-                height="25"
-              />
-              <code>+14</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Musketeer's Rivets Riding Boots<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Planar</td>
-            <td align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/25eb0086b2eee525c746250742b63323.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Taikiyan Laser Stadium<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/e95981c4a6dcb7d1af9ae882fcafcf78.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Taikiyan's Arclight Race Track<br />
-            </td>
+            <td align="center"></td>
           </tr>
         </table>
       </td>
@@ -13315,13 +13265,13 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/3b57e172e85a5cafe2fd5d437a2e5861.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/a6ff757d67e6d03d6efab245651be18b.png"
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Grand Duke's Crown of Netherflame<br /><img
+              Wastelander's Breathing Mask<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/dad66bfd99f1e5cea3812eecd1489407.png"
                 ,
                 height="25"
@@ -13329,13 +13279,13 @@
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Firesmith's Ring of Flame-Mastery<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/e4325e2ee8e8dcaecc9e3605a5c2a8fe.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/2de7a4a5ab53cae3cac1cdca348d078b.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Grand Duke's Robe of Grace<br /><img
+              Wastelander's Friar Robe<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/15b9e0c681aac81f7d718d554ac34bac.png"
                 ,
                 height="25"
@@ -13360,7 +13310,7 @@
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
               Salsotto's Terminator Line<br />
             </td>
