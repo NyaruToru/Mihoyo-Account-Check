@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>May 04, 2024 19:24 +0700</u> (🤖Automated)
+  🕒 Updated at <u>May 05, 2024 08:07 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -117,22 +117,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>4</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>5</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
+          src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
           ,
           height="80" /></a
       ><br />
-      <b>20 x Primogem</b>
+      <b>3 x Sweet Madame</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-04 09:02:31+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-05-05 09:07:24+08:00</b></td>
   </tr>
 </table>
 
@@ -170,7 +170,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>983</b></td>
+    <td align="center"><b>984</b></td>
   </tr>
   <tr>
     <td>
@@ -743,109 +743,59 @@
   <tr>
     <td colspan="2" align="center">
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Season:
-      <b>92</b>
+      <b>93</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./images/logo/floor.webp" , height="18" /> Max Floor:
-      <b>12-3</b>
+      <img src="./images/logo/floor.webp" , height="18" /> Max Floor: <b>9-3</b>
     </td>
     <td align="center">
       <img src="./images/logo/battle.webp" , height="18" /> Total Battles:
-      <b>24</b>
+      <b>3</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./images/logo/wins.webp" , height="18" /> Total Wins: <b>15</b>
+      <img src="./images/logo/wins.webp" , height="18" /> Total Wins: <b>3</b>
     </td>
     <td align="center">
-      <img src="./images/logo/star.png" , height="18" /> Total Stars: <b>36</b>
+      <img src="./images/logo/star.png" , height="18" /> Total Stars: <b>9</b>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      🕐 Start Time: <b>2024-04-15 20:00:00+00:00</b>
+      🕐 Start Time: <b>2024-04-30 20:00:00+00:00</b>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      🕛 End Time: <b>2024-04-30 19:59:59+00:00</b>
+      🕛 End Time: <b>2024-05-15 19:59:59+00:00</b>
     </td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      <b>Kaedehara Kazuha</b> <code>(15)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Yae.png"
-        ,
-        height="18"
-      />
-      <b>Yae Miko</b> <code>(15)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
-        ,
-        height="18"
-      />
-      <b>Baizhu</b> <code>(14)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      <b>Nahida</b> <code>(12)</code><br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td>
-      <img src="https://enka.network/ui/UI_AvatarIcon_Yae.png" , height="18" />
-      <b>Yae Miko</b> <code>(41)</code><br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      <b>Raiden Shogun</b> <code>(689541)</code><br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Nilou.png"
-        ,
-        height="18"
-      />
-      <b>Nilou</b> <code>(145573)</code><br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      <b>Kaedehara Kazuha</b> <code>(24)</code><br />
-    </td>
+    <td></td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td>
-      <img src="https://enka.network/ui/UI_AvatarIcon_Yae.png" , height="18" />
-      <b>Yae Miko</b> <code>(142)</code><br />
-    </td>
+    <td></td>
   </tr>
 </table>
 <h2 align="center">
@@ -862,7 +812,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>20</b> <code>(rate -99)</code></td>
+    <td align="center"><b>510</b> <code>(rate -75)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -873,18 +823,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>5000</b> <code>(rate -99)</code></td>
+    <td align="center"><b>408524</b> <code>(rate -71)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>20</b> <code>(100%)</code><br />Events: <b>0</b> <code>(0%)</code
-      ><br />Daily Activity: <b>0</b> <code>(0%)</code><br />Spiral Abyss:
-      <b>0</b> <code>(0%)</code><br />Quests: <b>0</b> <code>(0%)</code
-      ><br />Adventure: <b>0</b> <code>(0%)</code><br />Other: <b>0</b>
-      <code>(0%)</code><br />
+      Events: <b>280</b> <code>(55%)</code><br />Spiral Abyss: <b>150</b>
+      <code>(30%)</code><br />Daily Activity: <b>60</b> <code>(12%)</code
+      ><br />Mail: <b>20</b> <code>(3%)</code><br />Quests: <b>0</b>
+      <code>(0%)</code><br />Adventure: <b>0</b> <code>(0%)</code><br />Other:
+      <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -9809,7 +9759,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>2</code></td>
           </tr>
           <tr>
             <td>Artifacts<br /></td>
@@ -9893,22 +9843,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>4</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>5</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/4aa31979af47b9f4dab8d5627f5fa8ed_1292021808517312921.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
           ,
           height="80" /></a
       ><br />
-      <b>1 x Canned Soda</b>
+      <b>20 x Stellar Jade</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-04 09:02:32+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-05-05 09:07:25+08:00</b></td>
   </tr>
 </table>
 
@@ -9926,7 +9876,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>357</b></td>
+    <td><b>358</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9934,7 +9884,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>475</b></td>
+    <td><b>476</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -9951,7 +9901,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>695</b> <code>(rate -94)</code></td>
+    <td align="center"><b>740</b> <code>(rate -94)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9972,9 +9922,9 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>600</b> <code>(86%)</code><br />Adventure Rewards:
-      <b>75</b> <code>(10%)</code><br />Mail: <b>20</b> <code>(2%)</code
-      ><br />Other: <b>0</b> <code>(2%)</code><br />Event: <b>0</b>
+      Daily Activity: <b>600</b> <code>(81%)</code><br />Adventure Rewards:
+      <b>120</b> <code>(16%)</code><br />Mail: <b>20</b> <code>(2%)</code
+      ><br />Other: <b>0</b> <code>(1%)</code><br />Event: <b>0</b>
       <code>(0%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
@@ -10566,13 +10516,13 @@
               <code>+12</code><br />
               ⭐⭐⭐⭐⭐<br />
               Salsotto's Moving City<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/49dcf51cf0c17a614b6c2d543378d682.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/e30c7906ae9bed4879c710d119f7aaf3.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Belobog's Iron Defense<br />
+              Insumousu's Frayed Hawser<br />
             </td>
           </tr>
         </table>
@@ -11139,20 +11089,20 @@
             <td>Planar</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/983f978169040bfd468616849bd1929b.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/630beebc4bc544419dc69af08a532c5a.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Insumousu's Whalefall Ship<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/e30c7906ae9bed4879c710d119f7aaf3.png"
+              Belobog's Fortress of Preservation<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/49dcf51cf0c17a614b6c2d543378d682.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Insumousu's Frayed Hawser<br />
+              Belobog's Iron Defense<br />
             </td>
           </tr>
         </table>
