@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>May 05, 2024 08:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>May 05, 2024 19:25 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -159,7 +159,7 @@
       />
       Achievements
     </td>
-    <td align="center"><b>802</b></td>
+    <td align="center"><b>803</b></td>
   </tr>
   <tr>
     <td>
@@ -170,7 +170,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>984</b></td>
+    <td align="center"><b>985</b></td>
   </tr>
   <tr>
     <td>
@@ -284,7 +284,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>8-3</b></td>
+    <td align="center"><b>11-1</b></td>
   </tr>
 </table>
 
@@ -748,19 +748,20 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="./images/logo/floor.webp" , height="18" /> Max Floor: <b>9-3</b>
+      <img src="./images/logo/floor.webp" , height="18" /> Max Floor:
+      <b>11-1</b>
     </td>
     <td align="center">
       <img src="./images/logo/battle.webp" , height="18" /> Total Battles:
-      <b>3</b>
+      <b>7</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./images/logo/wins.webp" , height="18" /> Total Wins: <b>3</b>
+      <img src="./images/logo/wins.webp" , height="18" /> Total Wins: <b>7</b>
     </td>
     <td align="center">
-      <img src="./images/logo/star.png" , height="18" /> Total Stars: <b>9</b>
+      <img src="./images/logo/star.png" , height="18" /> Total Stars: <b>20</b>
     </td>
   </tr>
   <tr>
@@ -775,27 +776,72 @@
   </tr>
   <tr>
     <td>Most Played Characters</td>
-    <td></td>
+    <td>
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
+        ,
+        height="18"
+      />
+      <b>Furina</b> <code>(7)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      <b>Nahida</b> <code>(7)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
+        ,
+        height="18"
+      />
+      <b>Baizhu</b> <code>(7)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Nilou.png"
+        ,
+        height="18"
+      />
+      <b>Nilou</b> <code>(7)</code><br />
+    </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
-    <td></td>
+    <td>
+      <img src="https://enka.network/ui/UI_AvatarIcon_Itto.png" , height="18" />
+      <b>Arataki Itto</b> <code>(16)</code><br />
+    </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
-    <td></td>
+    <td>
+      <img src="https://enka.network/ui/UI_AvatarIcon_Itto.png" , height="18" />
+      <b>Arataki Itto</b> <code>(52458)</code><br />
+    </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
-    <td></td>
+    <td>
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Nilou.png"
+        ,
+        height="18"
+      />
+      <b>Nilou</b> <code>(53365)</code><br />
+    </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
-    <td></td>
+    <td>
+      <img
+        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      <b>Nahida</b> <code>(11)</code><br />
+    </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
-    <td></td>
+    <td>
+      <img src="https://enka.network/ui/UI_AvatarIcon_Yae.png" , height="18" />
+      <b>Yae Miko</b> <code>(39)</code><br />
+    </td>
   </tr>
 </table>
 <h2 align="center">
@@ -812,7 +858,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>510</b> <code>(rate -75)</code></td>
+    <td align="center"><b>665</b> <code>(rate -68)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -823,17 +869,17 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>408524</b> <code>(rate -71)</code></td>
+    <td align="center"><b>575524</b> <code>(rate -59)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Events: <b>280</b> <code>(55%)</code><br />Spiral Abyss: <b>150</b>
-      <code>(30%)</code><br />Daily Activity: <b>60</b> <code>(12%)</code
-      ><br />Mail: <b>20</b> <code>(3%)</code><br />Quests: <b>0</b>
-      <code>(0%)</code><br />Adventure: <b>0</b> <code>(0%)</code><br />Other:
+      Spiral Abyss: <b>300</b> <code>(45%)</code><br />Events: <b>280</b>
+      <code>(42%)</code><br />Daily Activity: <b>60</b> <code>(9%)</code
+      ><br />Mail: <b>20</b> <code>(3%)</code><br />Adventure: <b>5</b>
+      <code>(1%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
       <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
@@ -4869,11 +4915,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/1647b8b299daaeb4a809eda3a9303544.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/91525e701eb53a817ae1023b5423d861.png"
             ,
             height="20"
           />
-          Dodoco Tales
+          The Widsith
         </h3>
       </th>
     </tr>
@@ -4890,7 +4936,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/1647b8b299daaeb4a809eda3a9303544.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/91525e701eb53a817ae1023b5423d861.png"
             ,
             height="256"
           />
@@ -4929,11 +4975,18 @@
           </tr>
           <tr>
             <td>
-              Artifacts<br />1 x Viridescent Venerer<br />1 x Gilded Dreams<br />1
-              x Shimenawa's Reminiscence<br />
+              Artifacts<br />4 x Viridescent Venerer<br />1 x Deepwood
+              Memories<br />
             </td>
             <td align="center">
               <img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/bc93c1e06ea8759363a4b3056280d0a7.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              In Remembrance of Viridescent Fields<br /><img
                 src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/0c71ad0dd57fac14f2917ec047db0799.png"
                 ,
                 height="25"
@@ -4941,20 +4994,27 @@
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
               Viridescent Arrow Feather<br /><img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/ea73e5642af1abc0710caeaf2b5e48d6.png"
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/80527a7259ec15ad72ef40195153aaee.png"
                 ,
                 height="25"
               />
               <code>+20</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Honeyed Final Feast<br /><img
-                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/3878d81e3a8df7d6ad2a95fc4b716625.png"
+              A Time of Insight<br /><img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/1b3fe6fdf493115038d33b88e834107d.png"
                 ,
                 height="25"
               />
-              <code>+20</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Capricious Visage<br />
+              Viridescent Venerer's Vessel<br /><img
+                src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/507fc3ff17777ad1dad7670fb91789fc.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Viridescent Venerer's Diadem<br />
             </td>
           </tr>
           <tr>
@@ -4967,7 +5027,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Dodoco Tales</td>
+            <td align="center">The Widsith</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -4979,15 +5039,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+40</code></td>
+            <td align="center"><code>+90</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>6</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>2</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -9048,11 +9108,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/91525e701eb53a817ae1023b5423d861.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/1647b8b299daaeb4a809eda3a9303544.png"
             ,
             height="20"
           />
-          The Widsith
+          Dodoco Tales
         </h3>
       </th>
     </tr>
@@ -9069,7 +9129,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/91525e701eb53a817ae1023b5423d861.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/1647b8b299daaeb4a809eda3a9303544.png"
             ,
             height="256"
           />
@@ -9160,7 +9220,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">The Widsith</td>
+            <td align="center">Dodoco Tales</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -9172,15 +9232,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+90</code></td>
+            <td align="center"><code>+40</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>6</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>2</code></td>
           </tr>
         </table>
       </td>
@@ -9901,7 +9961,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>740</b> <code>(rate -94)</code></td>
+    <td align="center"><b>910</b> <code>(rate -93)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9911,7 +9971,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>7</b> <code>(rate -81)</code></td>
+    <td align="center"><b>8</b> <code>(rate -78)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9922,8 +9982,8 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>600</b> <code>(81%)</code><br />Adventure Rewards:
-      <b>120</b> <code>(16%)</code><br />Mail: <b>20</b> <code>(2%)</code
+      Daily Activity: <b>750</b> <code>(82%)</code><br />Adventure Rewards:
+      <b>120</b> <code>(13%)</code><br />Mail: <b>40</b> <code>(4%)</code
       ><br />Other: <b>0</b> <code>(1%)</code><br />Event: <b>0</b>
       <code>(0%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
@@ -9954,7 +10014,7 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td align="center"><b>42</b></td>
+    <td align="center"><b>43</b></td>
   </tr>
   <tr>
     <td>Total Stars</td>
@@ -10423,10 +10483,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/9a1954be8d1f7b0a0bf931d7b0f92444.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/dd8e68e12b29b3fed85afb85a90d5445.png"
             height="20"
           />
-          Trend of the Universal Market
+          Moment of Victory
         </h3>
       </th>
     </tr>
@@ -10441,7 +10501,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/9a1954be8d1f7b0a0bf931d7b0f92444.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/dd8e68e12b29b3fed85afb85a90d5445.png"
           />
         </p>
       </td>
@@ -10531,7 +10591,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Trend of the Universal Market</td>
+            <td align="center">Moment of Victory</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -10539,7 +10599,7 @@
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -11003,10 +11063,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/dd8e68e12b29b3fed85afb85a90d5445.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/9a1954be8d1f7b0a0bf931d7b0f92444.png"
             height="20"
           />
-          Moment of Victory
+          Trend of the Universal Market
         </h3>
       </th>
     </tr>
@@ -11021,7 +11081,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/dd8e68e12b29b3fed85afb85a90d5445.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/9a1954be8d1f7b0a0bf931d7b0f92444.png"
           />
         </p>
       </td>
@@ -11111,7 +11171,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Moment of Victory</td>
+            <td align="center">Trend of the Universal Market</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -11119,7 +11179,7 @@
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -12198,10 +12258,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/b9a24987abdce160fbcee52b13f15ccb.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/720eae787f60a95d0abecc8fcea32270.png"
             height="20"
           />
-          Past and Future
+          But the Battle Isn't Over
         </h3>
       </th>
     </tr>
@@ -12216,7 +12276,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/b9a24987abdce160fbcee52b13f15ccb.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/720eae787f60a95d0abecc8fcea32270.png"
           />
         </p>
       </td>
@@ -12257,13 +12317,13 @@
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Messenger's Holovisor<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/9fcf7fbe01656a2a4379e33854503f52.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/3360b4e69bde1c298cee6c745d35bd4a.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Eagle's Soaring Ring<br /><img
+              Messenger's Transformative Arm<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/a6167576ac99935aab467d19788cfc60.png"
                 ,
                 height="25"
@@ -12284,20 +12344,20 @@
             <td>Planar</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/63f979b84a73d838149b15a7feb96e34.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/983f978169040bfd468616849bd1929b.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              The Xianzhou Luofu's Celestial Ark<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/49dcf51cf0c17a614b6c2d543378d682.png"
+              Insumousu's Whalefall Ship<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/e30c7906ae9bed4879c710d119f7aaf3.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Belobog's Iron Defense<br />
+              Insumousu's Frayed Hawser<br />
             </td>
           </tr>
         </table>
@@ -12306,7 +12366,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Past and Future</td>
+            <td align="center">But the Battle Isn't Over</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -12841,7 +12901,7 @@
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
               Messenger's Transformative Arm<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/a6167576ac99935aab467d19788cfc60.png"
@@ -12864,20 +12924,20 @@
             <td>Planar</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/983f978169040bfd468616849bd1929b.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/63f979b84a73d838149b15a7feb96e34.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Insumousu's Whalefall Ship<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/e30c7906ae9bed4879c710d119f7aaf3.png"
+              The Xianzhou Luofu's Celestial Ark<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/303ad223b9818a3d30b21b68c0450d7d.png"
                 ,
                 height="25"
               />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Insumousu's Frayed Hawser<br />
+              <code>+12</code><br />
+              ⭐⭐⭐⭐<br />
+              The Xianzhou Luofu's Ambrosial Arbor Vines<br />
             </td>
           </tr>
         </table>
