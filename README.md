@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats"
     ><img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=IPEACHA's+Anime+Game+Stats"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Babe's+Anime+Game+Stats"
       alt="Typing SVG"
   /></a>
 </p>
@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>May 05, 2024 19:25 +0700</u> (🤖Automated)
+  🕒 Updated at <u>May 06, 2024 08:04 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -69,7 +69,7 @@
 <p align="center">
   <a href="https://github.com/Julius-Ulee/King-Genshin-StarRail-Stats"
     ><img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=IPEACHA's+Genshin+Impact+Stats"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFDA5D&center=true&vCenter=true&repeat=false&width=435&lines=Babe's+Genshin+Impact+Stats"
       alt="Typing SVG"
   /></a>
 </p>
@@ -102,7 +102,7 @@
         ,
         height="18"
       />
-      <b>IPEACHA</b> <code>Lv. 60</code>
+      <b>Babe</b> <code>Lv. 60</code>
     </td>
   </tr>
   <tr>
@@ -117,22 +117,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>5</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>6</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/07/30/f9e6a014d0a1c9159a5d7dda505f357c_4471349075532157878.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Sweet Madame</b>
+      <b>2 x Adventurer's Experience</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-05 09:07:24+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-05-06 09:04:36+08:00</b></td>
   </tr>
 </table>
 
@@ -778,16 +778,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
-        ,
-        height="18"
-      />
-      <b>Furina</b> <code>(7)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      <b>Nahida</b> <code>(7)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
@@ -797,7 +787,17 @@
         ,
         height="18"
       />
-      <b>Nilou</b> <code>(7)</code><br />
+      <b>Nilou</b> <code>(7)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
+        ,
+        height="18"
+      />
+      <b>Furina</b> <code>(7)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      <b>Nahida</b> <code>(7)</code><br />
     </td>
   </tr>
   <tr>
@@ -858,7 +858,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>665</b> <code>(rate -68)</code></td>
+    <td align="center"><b>727</b> <code>(rate -65)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -869,16 +869,16 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>575524</b> <code>(rate -59)</code></td>
+    <td align="center"><b>759770</b> <code>(rate -46)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Spiral Abyss: <b>300</b> <code>(45%)</code><br />Events: <b>280</b>
-      <code>(42%)</code><br />Daily Activity: <b>60</b> <code>(9%)</code
-      ><br />Mail: <b>20</b> <code>(3%)</code><br />Adventure: <b>5</b>
+      Spiral Abyss: <b>300</b> <code>(42%)</code><br />Events: <b>280</b>
+      <code>(39%)</code><br />Daily Activity: <b>120</b> <code>(16%)</code
+      ><br />Mail: <b>20</b> <code>(2%)</code><br />Adventure: <b>7</b>
       <code>(1%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
       <b>0</b> <code>(0%)</code><br />
     </td>
@@ -1559,11 +1559,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/33f1fb632f7f1e8e19ff64cb12d1d579.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/2fbb249871ba887d84a3af243a003bc0.png"
             ,
             height="20"
           />
-          Deathmatch
+          Favonius Lance
         </h3>
       </th>
     </tr>
@@ -1580,7 +1580,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/33f1fb632f7f1e8e19ff64cb12d1d579.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/2fbb249871ba887d84a3af243a003bc0.png"
             ,
             height="256"
           />
@@ -1671,7 +1671,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Deathmatch</td>
+            <td align="center">Favonius Lance</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -1683,15 +1683,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+90</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>6</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>3</code></td>
+            <td align="center"><code>4</code></td>
           </tr>
         </table>
       </td>
@@ -4599,11 +4599,11 @@
       <th>
         <h3 align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/2fbb249871ba887d84a3af243a003bc0.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/33f1fb632f7f1e8e19ff64cb12d1d579.png"
             ,
             height="20"
           />
-          Favonius Lance
+          Deathmatch
         </h3>
       </th>
     </tr>
@@ -4620,7 +4620,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/2fbb249871ba887d84a3af243a003bc0.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u1536f/33f1fb632f7f1e8e19ff64cb12d1d579.png"
             ,
             height="256"
           />
@@ -4716,7 +4716,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Favonius Lance</td>
+            <td align="center">Deathmatch</td>
           </tr>
           <tr>
             <td>Type</td>
@@ -4728,15 +4728,15 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+80</code></td>
+            <td align="center"><code>+90</code></td>
           </tr>
           <tr>
             <td>Ascension</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>6</code></td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td align="center"><code>4</code></td>
+            <td align="center"><code>3</code></td>
           </tr>
         </table>
       </td>
@@ -9903,22 +9903,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>5</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>6</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      <b>20 x Stellar Jade</b>
+      <b>2 x Adventure Log</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-05 09:07:25+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-05-06 09:04:38+08:00</b></td>
   </tr>
 </table>
 
@@ -9936,7 +9936,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>358</b></td>
+    <td><b>359</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -10014,7 +10014,7 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td align="center"><b>43</b></td>
+    <td align="center"><b>45</b></td>
   </tr>
   <tr>
     <td>Total Stars</td>
