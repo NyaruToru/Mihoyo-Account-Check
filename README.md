@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>May 06, 2024 08:04 +0700</u> (🤖Automated)
+  🕒 Updated at <u>May 06, 2024 19:27 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -244,7 +244,7 @@
       <img src="./images/logo/Common-Chest.webp" , height="18" /> Common Chests
       Opened
     </td>
-    <td align="center"><b>2086</b></td>
+    <td align="center"><b>2087</b></td>
   </tr>
   <tr>
     <td>
@@ -525,7 +525,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td align="center">4</td>
+          <td align="center">5</td>
         </tr>
       </table>
     </td>
@@ -778,6 +778,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
+        ,
+        height="18"
+      />
+      <b>Furina</b> <code>(7)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      <b>Zhongli</b> <code>(7)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
@@ -787,17 +797,7 @@
         ,
         height="18"
       />
-      <b>Nilou</b> <code>(7)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
-        ,
-        height="18"
-      />
-      <b>Furina</b> <code>(7)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      <b>Nahida</b> <code>(7)</code><br />
+      <b>Nilou</b> <code>(7)</code><br />
     </td>
   </tr>
   <tr>
@@ -858,7 +858,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>727</b> <code>(rate -65)</code></td>
+    <td align="center"><b>967</b> <code>(rate -53)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -869,18 +869,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>759770</b> <code>(rate -46)</code></td>
+    <td align="center"><b>1050245</b> <code>(rate -26)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Spiral Abyss: <b>300</b> <code>(42%)</code><br />Events: <b>280</b>
-      <code>(39%)</code><br />Daily Activity: <b>120</b> <code>(16%)</code
+      Events: <b>430</b> <code>(45%)</code><br />Spiral Abyss: <b>300</b>
+      <code>(31%)</code><br />Daily Activity: <b>180</b> <code>(18%)</code
       ><br />Mail: <b>20</b> <code>(2%)</code><br />Adventure: <b>7</b>
       <code>(1%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
-      <b>0</b> <code>(0%)</code><br />
+      <b>30</b> <code>(3%)</code><br />
     </td>
   </tr>
 </table>
@@ -4651,7 +4651,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td align="center"><code>+1</code></td>
+            <td align="center"><code>+2</code></td>
           </tr>
           <tr>
             <td>Constellation</td>
@@ -9961,7 +9961,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>910</b> <code>(rate -93)</code></td>
+    <td align="center"><b>1285</b> <code>(rate -90)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9971,7 +9971,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>8</b> <code>(rate -78)</code></td>
+    <td align="center"><b>10</b> <code>(rate -73)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9982,10 +9982,10 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>750</b> <code>(82%)</code><br />Adventure Rewards:
-      <b>120</b> <code>(13%)</code><br />Mail: <b>40</b> <code>(4%)</code
-      ><br />Other: <b>0</b> <code>(1%)</code><br />Event: <b>0</b>
-      <code>(0%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
+      Daily Activity: <b>900</b> <code>(70%)</code><br />Simulated Universe:
+      <b>225</b> <code>(17%)</code><br />Adventure Rewards: <b>120</b>
+      <code>(9%)</code><br />Mail: <b>40</b> <code>(3%)</code><br />Other:
+      <b>0</b> <code>(1%)</code><br />Event: <b>0</b> <code>(0%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
@@ -10483,10 +10483,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/dd8e68e12b29b3fed85afb85a90d5445.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/9a1954be8d1f7b0a0bf931d7b0f92444.png"
             height="20"
           />
-          Moment of Victory
+          Trend of the Universal Market
         </h3>
       </th>
     </tr>
@@ -10501,7 +10501,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/dd8e68e12b29b3fed85afb85a90d5445.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/9a1954be8d1f7b0a0bf931d7b0f92444.png"
           />
         </p>
       </td>
@@ -10591,7 +10591,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Moment of Victory</td>
+            <td align="center">Trend of the Universal Market</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -10599,7 +10599,7 @@
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -11063,10 +11063,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/9a1954be8d1f7b0a0bf931d7b0f92444.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/dd8e68e12b29b3fed85afb85a90d5445.png"
             height="20"
           />
-          Trend of the Universal Market
+          Moment of Victory
         </h3>
       </th>
     </tr>
@@ -11081,7 +11081,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/9a1954be8d1f7b0a0bf931d7b0f92444.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u66fwb/dd8e68e12b29b3fed85afb85a90d5445.png"
           />
         </p>
       </td>
@@ -11171,7 +11171,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Trend of the Universal Market</td>
+            <td align="center">Moment of Victory</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -11179,7 +11179,7 @@
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
