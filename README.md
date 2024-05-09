@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>May 09, 2024 08:04 +0700</u> (🤖Automated)
+  🕒 Updated at <u>May 09, 2024 19:26 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -778,21 +778,21 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      <b>Zhongli</b> <code>(8)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
-        ,
-        height="18"
-      />
-      <b>Furina</b> <code>(8)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
       />
       <b>Baizhu</b> <code>(8)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
+        ,
+        height="18"
+      />
+      <b>Furina</b> <code>(8)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      <b>Zhongli</b> <code>(8)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
@@ -9948,11 +9948,11 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>498</b></td>
+    <td><b>507</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td><b>648</b></td>
+    <td><b>690</b></td>
   </tr>
 </table>
 
@@ -9965,7 +9965,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>5970</b> <code>(rate -56)</code></td>
+    <td align="center"><b>7571</b> <code>(rate -45)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9975,7 +9975,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>15</b> <code>(rate -60)</code></td>
+    <td align="center"><b>17</b> <code>(rate -55)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9986,10 +9986,10 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: <b>2435</b> <code>(40%)</code><br />Daily Activity:
-      <b>1310</b> <code>(21%)</code><br />Event: <b>1180</b> <code>(19%)</code
-      ><br />Mail: <b>810</b> <code>(13%)</code><br />Other: <b>10</b>
-      <code>(4%)</code><br />Simulated Universe: <b>225</b> <code>(3%)</code
+      Adventure Rewards: <b>3315</b> <code>(43%)</code><br />Daily Activity:
+      <b>1350</b> <code>(17%)</code><br />Event: <b>1180</b> <code>(15%)</code
+      ><br />Other: <b>691</b> <code>(13%)</code><br />Mail: <b>810</b>
+      <code>(10%)</code><br />Simulated Universe: <b>225</b> <code>(2%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
@@ -10507,7 +10507,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>3</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
           <tr>
             <td>Relics</td>
@@ -12282,7 +12282,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>2</code></td>
           </tr>
           <tr>
             <td>Relics</td>
@@ -14130,7 +14130,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>6</code></td>
           </tr>
           <tr>
             <td>Relics</td>
