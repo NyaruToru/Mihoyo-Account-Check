@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>May 08, 2024 19:27 +0700</u> (🤖Automated)
+  🕒 Updated at <u>May 09, 2024 08:04 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -117,22 +117,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>8</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>9</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Adventurer's Experience</b>
+      <b>3 x Fine Enhancement Ore</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-08 08:53:22+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-05-09 09:03:58+08:00</b></td>
   </tr>
 </table>
 
@@ -783,21 +783,21 @@
         height="18"
       />
       <b>Zhongli</b> <code>(8)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
-        ,
-        height="18"
-      />
-      <b>Baizhu</b> <code>(8)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
         ,
         height="18"
       />
       <b>Furina</b> <code>(8)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Nilou.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
       />
-      <b>Nilou</b> <code>(7)</code><br />
+      <b>Baizhu</b> <code>(8)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      <b>Nahida</b> <code>(7)</code><br />
     </td>
   </tr>
   <tr>
@@ -9907,22 +9907,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>8</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>9</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           ,
           height="80" /></a
       ><br />
-      <b>1 x Lost Gold Fragment</b>
+      <b>5000 x Credit</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-08 08:53:23+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-05-09 00:22:56+08:00</b></td>
   </tr>
 </table>
 
@@ -9940,7 +9940,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>361</b></td>
+    <td><b>362</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9948,11 +9948,11 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>490</b></td>
+    <td><b>498</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td><b>613</b></td>
+    <td><b>648</b></td>
   </tr>
 </table>
 
@@ -9965,7 +9965,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>4336</b> <code>(rate -68)</code></td>
+    <td align="center"><b>5970</b> <code>(rate -56)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9975,7 +9975,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>13</b> <code>(rate -65)</code></td>
+    <td align="center"><b>15</b> <code>(rate -60)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9986,10 +9986,10 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: <b>1705</b> <code>(39%)</code><br />Daily Activity:
-      <b>1170</b> <code>(26%)</code><br />Mail: <b>810</b> <code>(18%)</code
-      ><br />Event: <b>420</b> <code>(9%)</code><br />Simulated Universe:
-      <b>225</b> <code>(5%)</code><br />Other: <b>6</b> <code>(3%)</code
+      Adventure Rewards: <b>2435</b> <code>(40%)</code><br />Daily Activity:
+      <b>1310</b> <code>(21%)</code><br />Event: <b>1180</b> <code>(19%)</code
+      ><br />Mail: <b>810</b> <code>(13%)</code><br />Other: <b>10</b>
+      <code>(4%)</code><br />Simulated Universe: <b>225</b> <code>(3%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
@@ -10507,7 +10507,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>2</code></td>
+            <td align="center"><code>3</code></td>
           </tr>
           <tr>
             <td>Relics</td>
@@ -13531,7 +13531,7 @@
                 ,
                 height="25"
               />
-              <code>+6</code><br />
+              <code>+9</code><br />
               ⭐⭐⭐⭐⭐<br />
               Penacony's Grand Hotel<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/daa21df4aca1fc9642ad9fcc69efed5c.png"
