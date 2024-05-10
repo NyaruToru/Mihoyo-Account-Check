@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>May 10, 2024 08:04 +0700</u> (🤖Automated)
+  🕒 Updated at <u>May 10, 2024 19:26 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -778,6 +778,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
+        ,
+        height="18"
+      />
+      <b>Baizhu</b> <code>(8)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
@@ -788,11 +793,6 @@
         height="18"
       />
       <b>Furina</b> <code>(8)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
-        ,
-        height="18"
-      />
-      <b>Baizhu</b> <code>(8)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Nilou.png"
         ,
         height="18"
@@ -9948,7 +9948,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>507</b></td>
+    <td><b>508</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -9965,7 +9965,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>7672</b> <code>(rate -44)</code></td>
+    <td align="center"><b>7727</b> <code>(rate -44)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9986,8 +9986,8 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: <b>3315</b> <code>(43%)</code><br />Daily Activity:
-      <b>1450</b> <code>(18%)</code><br />Event: <b>1180</b> <code>(15%)</code
+      Adventure Rewards: <b>3320</b> <code>(42%)</code><br />Daily Activity:
+      <b>1500</b> <code>(19%)</code><br />Event: <b>1180</b> <code>(15%)</code
       ><br />Other: <b>692</b> <code>(12%)</code><br />Mail: <b>810</b>
       <code>(10%)</code><br />Simulated Universe: <b>225</b> <code>(2%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
