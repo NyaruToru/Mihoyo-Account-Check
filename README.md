@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>May 09, 2024 19:26 +0700</u> (🤖Automated)
+  🕒 Updated at <u>May 10, 2024 08:04 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -117,22 +117,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>9</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>10</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Fine Enhancement Ore</b>
+      <b>5000 x Mora</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-09 09:03:58+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-05-10 09:04:24+08:00</b></td>
   </tr>
 </table>
 
@@ -778,26 +778,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
-        ,
-        height="18"
-      />
-      <b>Baizhu</b> <code>(8)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
-        ,
-        height="18"
-      />
-      <b>Furina</b> <code>(8)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
       <b>Zhongli</b> <code>(8)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
         ,
         height="18"
       />
-      <b>Nahida</b> <code>(7)</code><br />
+      <b>Furina</b> <code>(8)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
+        ,
+        height="18"
+      />
+      <b>Baizhu</b> <code>(8)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Nilou.png"
+        ,
+        height="18"
+      />
+      <b>Nilou</b> <code>(7)</code><br />
     </td>
   </tr>
   <tr>
@@ -9907,22 +9907,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>9</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>10</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Credit</b>
+      <b>3 x Adventure Log</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-09 00:22:56+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-05-10 09:04:25+08:00</b></td>
   </tr>
 </table>
 
@@ -9940,7 +9940,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>362</b></td>
+    <td><b>363</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9965,7 +9965,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>7571</b> <code>(rate -45)</code></td>
+    <td align="center"><b>7672</b> <code>(rate -44)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9975,7 +9975,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>17</b> <code>(rate -55)</code></td>
+    <td align="center"><b>19</b> <code>(rate -50)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9987,8 +9987,8 @@
     </td>
     <td>
       Adventure Rewards: <b>3315</b> <code>(43%)</code><br />Daily Activity:
-      <b>1350</b> <code>(17%)</code><br />Event: <b>1180</b> <code>(15%)</code
-      ><br />Other: <b>691</b> <code>(13%)</code><br />Mail: <b>810</b>
+      <b>1450</b> <code>(18%)</code><br />Event: <b>1180</b> <code>(15%)</code
+      ><br />Other: <b>692</b> <code>(12%)</code><br />Mail: <b>810</b>
       <code>(10%)</code><br />Simulated Universe: <b>225</b> <code>(2%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
@@ -10016,7 +10016,7 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td align="center"><b>51</b></td>
+    <td align="center"><b>54</b></td>
   </tr>
   <tr>
     <td>Total Stars</td>
@@ -10461,10 +10461,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/4138c2747471fd9880922be2197c35bc.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/c537ca7e273bdc39e4d315046724c5e1.png"
             height="20"
           />
-          But the Battle Isn't Over
+          Past and Future
         </h3>
       </th>
     </tr>
@@ -10479,7 +10479,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/4138c2747471fd9880922be2197c35bc.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/c537ca7e273bdc39e4d315046724c5e1.png"
           />
         </p>
       </td>
@@ -10569,7 +10569,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">But the Battle Isn't Over</td>
+            <td align="center">Past and Future</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -10896,10 +10896,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/49b4f67d08617d961f9248f128f00bf3.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/9204e6bc1361abc200c51b6d7aa295af.png"
             height="20"
           />
-          Cruising in the Stellar Sea
+          Darting Arrow
         </h3>
       </th>
     </tr>
@@ -10914,7 +10914,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/49b4f67d08617d961f9248f128f00bf3.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/9204e6bc1361abc200c51b6d7aa295af.png"
           />
         </p>
       </td>
@@ -11004,15 +11004,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Cruising in the Stellar Sea</td>
+            <td align="center">Darting Arrow</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+80</code></td>
+            <td align="center"><code>+70</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>3</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -12091,10 +12091,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/9204e6bc1361abc200c51b6d7aa295af.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/49b4f67d08617d961f9248f128f00bf3.png"
             height="20"
           />
-          Darting Arrow
+          Cruising in the Stellar Sea
         </h3>
       </th>
     </tr>
@@ -12109,7 +12109,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/9204e6bc1361abc200c51b6d7aa295af.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/49b4f67d08617d961f9248f128f00bf3.png"
           />
         </p>
       </td>
@@ -12188,7 +12188,7 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Salsotto's Terminator Line<br />
             </td>
@@ -12199,15 +12199,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Darting Arrow</td>
+            <td align="center">Cruising in the Stellar Sea</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+70</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>3</code></td>
           </tr>
         </table>
       </td>
@@ -12236,10 +12236,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/c537ca7e273bdc39e4d315046724c5e1.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/4138c2747471fd9880922be2197c35bc.png"
             height="20"
           />
-          Past and Future
+          But the Battle Isn't Over
         </h3>
       </th>
     </tr>
@@ -12254,7 +12254,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/c537ca7e273bdc39e4d315046724c5e1.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/4138c2747471fd9880922be2197c35bc.png"
           />
         </p>
       </td>
@@ -12344,7 +12344,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Past and Future</td>
+            <td align="center">But the Battle Isn't Over</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -13054,13 +13054,13 @@
               <code>+14</code><br />
               ⭐⭐⭐⭐⭐<br />
               Salsotto's Moving City<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/24d8f620b91529b8eecea7dfc52acbd9.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/aec74cf16e56c8b2baf05a9365b99569.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Salsotto's Terminator Line<br />
+              Glamoth's Silent Tombstone<br />
             </td>
           </tr>
         </table>
