@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>May 11, 2024 08:03 +0700</u> (🤖Automated)
+  🕒 Updated at <u>May 11, 2024 19:25 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -778,11 +778,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
-        ,
-        height="18"
-      />
-      <b>Baizhu</b> <code>(8)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
         ,
         height="18"
@@ -793,11 +788,16 @@
         height="18"
       />
       <b>Zhongli</b> <code>(8)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
       />
-      <b>Nahida</b> <code>(7)</code><br />
+      <b>Baizhu</b> <code>(8)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Nilou.png"
+        ,
+        height="18"
+      />
+      <b>Nilou</b> <code>(7)</code><br />
     </td>
   </tr>
   <tr>
@@ -862,7 +862,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>1137</b> <code>(rate -45)</code></td>
+    <td align="center"><b>1497</b> <code>(rate -28)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -873,16 +873,16 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1350255</b> <code>(rate -5)</code></td>
+    <td align="center"><b>1651555</b> <code>(rate 15)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Events: <b>550</b> <code>(49%)</code><br />Spiral Abyss: <b>300</b>
-      <code>(27%)</code><br />Daily Activity: <b>210</b> <code>(19%)</code
-      ><br />Adventure: <b>26</b> <code>(2%)</code><br />Mail: <b>20</b>
+      Events: <b>850</b> <code>(57%)</code><br />Spiral Abyss: <b>300</b>
+      <code>(21%)</code><br />Daily Activity: <b>250</b> <code>(17%)</code
+      ><br />Mail: <b>40</b> <code>(2%)</code><br />Adventure: <b>26</b>
       <code>(1%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
       <b>31</b> <code>(2%)</code><br />
     </td>
@@ -9965,7 +9965,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>7732</b> <code>(rate -44)</code></td>
+    <td align="center"><b>7882</b> <code>(rate -42)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9975,7 +9975,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>19</b> <code>(rate -50)</code></td>
+    <td align="center"><b>20</b> <code>(rate -47)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9986,9 +9986,9 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: <b>3325</b> <code>(43%)</code><br />Daily Activity:
-      <b>1500</b> <code>(19%)</code><br />Event: <b>1180</b> <code>(15%)</code
-      ><br />Other: <b>692</b> <code>(11%)</code><br />Mail: <b>810</b>
+      Adventure Rewards: <b>3325</b> <code>(42%)</code><br />Daily Activity:
+      <b>1650</b> <code>(20%)</code><br />Event: <b>1180</b> <code>(14%)</code
+      ><br />Other: <b>692</b> <code>(12%)</code><br />Mail: <b>810</b>
       <code>(10%)</code><br />Simulated Universe: <b>225</b> <code>(2%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
