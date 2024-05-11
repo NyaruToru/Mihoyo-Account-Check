@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>May 10, 2024 19:26 +0700</u> (🤖Automated)
+  🕒 Updated at <u>May 11, 2024 08:03 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -117,22 +117,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>10</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>11</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Mora</b>
+      <b>20 x Primogem</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-10 09:04:24+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-05-11 09:03:50+08:00</b></td>
   </tr>
 </table>
 
@@ -783,21 +783,21 @@
         height="18"
       />
       <b>Baizhu</b> <code>(8)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      <b>Zhongli</b> <code>(8)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
         ,
         height="18"
       />
       <b>Furina</b> <code>(8)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Nilou.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      <b>Nilou</b> <code>(7)</code><br />
+      <b>Zhongli</b> <code>(8)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      <b>Nahida</b> <code>(7)</code><br />
     </td>
   </tr>
   <tr>
@@ -9907,22 +9907,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>10</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>11</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Adventure Log</b>
+      <b>2 x Lost Gold Fragment</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-10 09:04:25+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-05-11 09:03:51+08:00</b></td>
   </tr>
 </table>
 
@@ -9940,7 +9940,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>363</b></td>
+    <td><b>364</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9965,7 +9965,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>7727</b> <code>(rate -44)</code></td>
+    <td align="center"><b>7732</b> <code>(rate -44)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9986,9 +9986,9 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: <b>3320</b> <code>(42%)</code><br />Daily Activity:
+      Adventure Rewards: <b>3325</b> <code>(43%)</code><br />Daily Activity:
       <b>1500</b> <code>(19%)</code><br />Event: <b>1180</b> <code>(15%)</code
-      ><br />Other: <b>692</b> <code>(12%)</code><br />Mail: <b>810</b>
+      ><br />Other: <b>692</b> <code>(11%)</code><br />Mail: <b>810</b>
       <code>(10%)</code><br />Simulated Universe: <b>225</b> <code>(2%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
@@ -10461,10 +10461,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/c537ca7e273bdc39e4d315046724c5e1.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/7fae1fcc326a774769ce700c13991b00.png"
             height="20"
           />
-          Past and Future
+          Memories of the Past
         </h3>
       </th>
     </tr>
@@ -10479,7 +10479,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/c537ca7e273bdc39e4d315046724c5e1.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/7fae1fcc326a774769ce700c13991b00.png"
           />
         </p>
       </td>
@@ -10531,14 +10531,14 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Watchmaker's Illusory Formal Suit<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/e7c939cfe3d1b14f3c04f01bbbd62151.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Watchmaker's Dream-Concealing Dress Shoes<br />
             </td>
@@ -10547,20 +10547,20 @@
             <td>Planar</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/ab04e3f60b91681261d72f07db5a1a93.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/e287039f6a3b886e3f33a60e0352edca.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              The Xianzhou Luofu's Celestial Ark<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/09c3c8c140cf91db00ac9b82e43ff187.png"
+              Talia's Nailscrap Town<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/5cf4ea89097184f4bd2dc85dc5445583.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              The Xianzhou Luofu's Ambrosial Arbor Vines<br />
+              Talia's Exposed Electric Wire<br />
             </td>
           </tr>
         </table>
@@ -10569,15 +10569,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Past and Future</td>
+            <td align="center">Memories of the Past</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+80</code></td>
+            <td align="center"><code>+70</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>2</code></td>
           </tr>
         </table>
       </td>
@@ -11331,10 +11331,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/a637f732e6775fb59ed320c2c983f862.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/eb17115e095c31bac18b2e6f5b0ee559.png"
             height="20"
           />
-          A Secret Vow
+          Under the Blue Sky
         </h3>
       </th>
     </tr>
@@ -11349,7 +11349,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/a637f732e6775fb59ed320c2c983f862.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/eb17115e095c31bac18b2e6f5b0ee559.png"
           />
         </p>
       </td>
@@ -11381,7 +11381,57 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td align="center"></td>
+            <td align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/fb7500c4106d5b0bb234bad6dd0199c7.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Musketeer's Wild Wheat Felt Hat<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/2cdf28c9b5a40dfd4c453fd99d45fa91.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Musketeer's Coarse Leather Gloves<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/5e7c8415fba004060eb8a9847072f675.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Musketeer's Wind-Hunting Shawl<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/2efa24d9f00dd382c0b052e4f34130cd.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Musketeer's Rivets Riding Boots<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Planar</td>
+            <td align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/2b7192873870fda51942bd04415f2e59.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Taikiyan Laser Stadium<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/5f5b6416011b6ed0867a860ba3033b5f.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Taikiyan's Arclight Race Track<br />
+            </td>
           </tr>
         </table>
       </td>
@@ -11389,15 +11439,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">A Secret Vow</td>
+            <td align="center">Under the Blue Sky</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+70</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -11426,10 +11476,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/eb17115e095c31bac18b2e6f5b0ee559.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/a637f732e6775fb59ed320c2c983f862.png"
             height="20"
           />
-          Under the Blue Sky
+          A Secret Vow
         </h3>
       </th>
     </tr>
@@ -11444,7 +11494,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/eb17115e095c31bac18b2e6f5b0ee559.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/a637f732e6775fb59ed320c2c983f862.png"
           />
         </p>
       </td>
@@ -11534,7 +11584,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Under the Blue Sky</td>
+            <td align="center">A Secret Vow</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -11542,7 +11592,7 @@
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -11683,7 +11733,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+80</code></td>
+            <td align="center"><code>+70</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
