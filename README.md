@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>May 12, 2024 19:27 +0700</u> (🤖Automated)
+  🕒 Updated at <u>May 13, 2024 08:06 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -117,22 +117,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>12</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>13</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Fried Radish Balls</b>
+      <b>2 x Adventurer's Experience</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-12 09:09:23+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-05-13 09:06:13+08:00</b></td>
   </tr>
 </table>
 
@@ -793,11 +793,11 @@
         height="18"
       />
       <b>Furina</b> <code>(8)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Nilou.png"
         ,
         height="18"
       />
-      <b>Nahida</b> <code>(7)</code><br />
+      <b>Nilou</b> <code>(7)</code><br />
     </td>
   </tr>
   <tr>
@@ -9907,22 +9907,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>12</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>13</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Condensed Aether</b>
+      <b>20 x Stellar Jade</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-12 09:09:25+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-05-13 09:06:15+08:00</b></td>
   </tr>
 </table>
 
@@ -9965,7 +9965,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>7992</b> <code>(rate -42)</code></td>
+    <td align="center"><b>8052</b> <code>(rate -41)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9987,448 +9987,11 @@
     </td>
     <td>
       Adventure Rewards: <b>3345</b> <code>(41%)</code><br />Daily Activity:
-      <b>1740</b> <code>(21%)</code><br />Event: <b>1180</b> <code>(14%)</code
-      ><br />Other: <b>692</b> <code>(12%)</code><br />Mail: <b>810</b>
+      <b>1800</b> <code>(22%)</code><br />Event: <b>1180</b> <code>(14%)</code
+      ><br />Other: <b>692</b> <code>(11%)</code><br />Mail: <b>810</b>
       <code>(10%)</code><br />Simulated Universe: <b>225</b> <code>(2%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
-  </tr>
-</table>
-<h2 align="center">
-  <img
-    src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp"
-    height="20"
-  />
-  Memory of Chaos
-  <img
-    src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp"
-    height="20"
-  />
-</h2>
-<table align="center">
-  <tr>
-    <td>Season</td>
-    <td align="center"><b>1013</b></td>
-  </tr>
-  <tr>
-    <td>Max Floor</td>
-    <td align="center"><b>White Night Chronicles Stage 12</b></td>
-  </tr>
-  <tr>
-    <td>Total Battles</td>
-    <td align="center"><b>54</b></td>
-  </tr>
-  <tr>
-    <td>Total Stars</td>
-    <td align="center"><b>36</b></td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>White Night Chronicles Stage 12</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>9</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/a422748a6d1c6c45793757d7ba755c12.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/23802541d3ebea01ce1465d1e8f28706.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/5cf06f822bba3b9f49e5bdf8c898346a.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/d21f115b6172375ba020ac30f9d8ef6e.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/452d392673b31a713db272dcaae3ba8f.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/c8874a322801608e6e11a6bcdefe4e18.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/cbad4b45fe74ecbef9c9cfabca81ed40.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/6511e7efee81f88b877d6efd4f957ff7.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>White Night Chronicles Stage 11</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>5</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/a422748a6d1c6c45793757d7ba755c12.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/23802541d3ebea01ce1465d1e8f28706.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/5cf06f822bba3b9f49e5bdf8c898346a.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/d21f115b6172375ba020ac30f9d8ef6e.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/452d392673b31a713db272dcaae3ba8f.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/cbad4b45fe74ecbef9c9cfabca81ed40.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/c8874a322801608e6e11a6bcdefe4e18.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/acc986c0600d0575f0e8bd7ee4d5a7ad.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>White Night Chronicles Stage 10</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>3</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/a422748a6d1c6c45793757d7ba755c12.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/23802541d3ebea01ce1465d1e8f28706.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/5cf06f822bba3b9f49e5bdf8c898346a.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/d21f115b6172375ba020ac30f9d8ef6e.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/452d392673b31a713db272dcaae3ba8f.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/cbad4b45fe74ecbef9c9cfabca81ed40.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/c8874a322801608e6e11a6bcdefe4e18.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/acc986c0600d0575f0e8bd7ee4d5a7ad.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>White Night Chronicles Stage 9</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>4</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/a422748a6d1c6c45793757d7ba755c12.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/23802541d3ebea01ce1465d1e8f28706.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/5cf06f822bba3b9f49e5bdf8c898346a.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/d21f115b6172375ba020ac30f9d8ef6e.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/452d392673b31a713db272dcaae3ba8f.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/cbad4b45fe74ecbef9c9cfabca81ed40.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/c8874a322801608e6e11a6bcdefe4e18.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/acc986c0600d0575f0e8bd7ee4d5a7ad.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>White Night Chronicles Stage 8</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>2</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/a422748a6d1c6c45793757d7ba755c12.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/23802541d3ebea01ce1465d1e8f28706.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/5cf06f822bba3b9f49e5bdf8c898346a.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/d21f115b6172375ba020ac30f9d8ef6e.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/452d392673b31a713db272dcaae3ba8f.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/cbad4b45fe74ecbef9c9cfabca81ed40.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/c8874a322801608e6e11a6bcdefe4e18.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/acc986c0600d0575f0e8bd7ee4d5a7ad.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>White Night Chronicles Stage 7</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>1</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/452d392673b31a713db272dcaae3ba8f.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/cbad4b45fe74ecbef9c9cfabca81ed40.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/c8874a322801608e6e11a6bcdefe4e18.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/acc986c0600d0575f0e8bd7ee4d5a7ad.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/a422748a6d1c6c45793757d7ba755c12.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/23802541d3ebea01ce1465d1e8f28706.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/5cf06f822bba3b9f49e5bdf8c898346a.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/d21f115b6172375ba020ac30f9d8ef6e.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>White Night Chronicles Stage 6</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>0</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>White Night Chronicles Stage 5</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>0</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>White Night Chronicles Stage 4</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>0</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>White Night Chronicles Stage 3</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>0</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>White Night Chronicles Stage 2</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>0</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>White Night Chronicles Stage 1</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>0</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center"></td>
   </tr>
 </table>
 <p align="center">
@@ -14265,7 +13828,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>0</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
           <tr>
             <td>Relics</td>
