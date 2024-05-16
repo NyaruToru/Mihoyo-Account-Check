@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>May 15, 2024 19:29 +0700</u> (🤖Automated)
+  🕒 Updated at <u>May 16, 2024 08:05 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -117,22 +117,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>15</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>16</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
           ,
           height="80" /></a
       ><br />
-      <b>5 x Adventurer's Experience</b>
+      <b>5 x Fine Enhancement Ore</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-15 09:05:10+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-05-16 09:04:59+08:00</b></td>
   </tr>
 </table>
 
@@ -284,7 +284,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>11-1</b></td>
+    <td align="center"><b>-</b></td>
   </tr>
 </table>
 
@@ -9907,22 +9907,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>15</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>16</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/cbd2cbb1526cd4fbaf55559461591ad4_5780325781834797904.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      <b>1 x Energy Drink (sugar-free)</b>
+      <b>3 x Adventure Log</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-15 09:05:12+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-05-16 09:05:00+08:00</b></td>
   </tr>
 </table>
 
@@ -9940,7 +9940,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>368</b></td>
+    <td><b>369</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9948,11 +9948,11 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>510</b></td>
+    <td><b>511</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td><b>694</b></td>
+    <td><b>695</b></td>
   </tr>
 </table>
 
@@ -9965,7 +9965,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>9502</b> <code>(rate -31)</code></td>
+    <td align="center"><b>9797</b> <code>(rate -29)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9986,9 +9986,9 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: <b>3380</b> <code>(35%)</code><br />Daily Activity:
-      <b>2250</b> <code>(23%)</code><br />Event: <b>1180</b> <code>(12%)</code
-      ><br />Other: <b>692</b> <code>(11%)</code><br />Mail: <b>830</b>
+      Adventure Rewards: <b>3525</b> <code>(35%)</code><br />Daily Activity:
+      <b>2400</b> <code>(24%)</code><br />Event: <b>1180</b> <code>(12%)</code
+      ><br />Other: <b>692</b> <code>(10%)</code><br />Mail: <b>830</b>
       <code>(8%)</code><br />Forgotten Hall: <b>720</b> <code>(7%)</code
       ><br />Simulated Universe: <b>450</b> <code>(4%)</code><br />
     </td>
