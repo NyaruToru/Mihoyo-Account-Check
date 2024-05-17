@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>May 17, 2024 08:05 +0700</u> (🤖Automated)
+  🕒 Updated at <u>May 17, 2024 19:27 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -778,26 +778,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
-        ,
-        height="18"
-      />
-      <b>Baizhu</b> <code>(8)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
         ,
         height="18"
       />
       <b>Furina</b> <code>(8)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
+        ,
+        height="18"
+      />
+      <b>Baizhu</b> <code>(8)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
       <b>Zhongli</b> <code>(8)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Nilou.png"
         ,
         height="18"
       />
-      <b>Nahida</b> <code>(7)</code><br />
+      <b>Nilou</b> <code>(7)</code><br />
     </td>
   </tr>
   <tr>
@@ -9952,7 +9952,7 @@
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td><b>695</b></td>
+    <td><b>696</b></td>
   </tr>
 </table>
 
@@ -9965,7 +9965,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>9887</b> <code>(rate -28)</code></td>
+    <td align="center"><b>10137</b> <code>(rate -26)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9975,7 +9975,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>29</b> <code>(rate -23)</code></td>
+    <td align="center"><b>33</b> <code>(rate -13)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9986,9 +9986,9 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: <b>3525</b> <code>(35%)</code><br />Daily Activity:
-      <b>2490</b> <code>(25%)</code><br />Event: <b>1180</b> <code>(11%)</code
-      ><br />Other: <b>692</b> <code>(10%)</code><br />Mail: <b>830</b>
+      Adventure Rewards: <b>3555</b> <code>(35%)</code><br />Daily Activity:
+      <b>2550</b> <code>(25%)</code><br />Event: <b>1340</b> <code>(13%)</code
+      ><br />Mail: <b>830</b> <code>(8%)</code><br />Other: <b>692</b>
       <code>(8%)</code><br />Forgotten Hall: <b>720</b> <code>(7%)</code
       ><br />Simulated Universe: <b>450</b> <code>(4%)</code><br />
     </td>
