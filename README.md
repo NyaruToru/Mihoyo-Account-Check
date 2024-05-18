@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>May 17, 2024 19:27 +0700</u> (🤖Automated)
+  🕒 Updated at <u>May 18, 2024 08:04 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -117,22 +117,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>17</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>18</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Mora</b>
+      <b>20 x Primogem</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-17 09:05:17+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-05-18 09:04:03+08:00</b></td>
   </tr>
 </table>
 
@@ -778,26 +778,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
-        ,
-        height="18"
-      />
-      <b>Furina</b> <code>(8)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
       />
       <b>Baizhu</b> <code>(8)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
+        ,
+        height="18"
+      />
+      <b>Furina</b> <code>(8)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
       <b>Zhongli</b> <code>(8)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Nilou.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      <b>Nilou</b> <code>(7)</code><br />
+      <b>Nahida</b> <code>(7)</code><br />
     </td>
   </tr>
   <tr>
@@ -9907,22 +9907,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>17</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>18</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Condensed Aether</b>
+      <b>2 x Lost Gold Fragment</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-17 09:05:18+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-05-18 09:04:05+08:00</b></td>
   </tr>
 </table>
 
@@ -9940,7 +9940,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>370</b></td>
+    <td><b>371</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9965,7 +9965,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>10137</b> <code>(rate -26)</code></td>
+    <td align="center"><b>10387</b> <code>(rate -24)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9986,10 +9986,10 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: <b>3555</b> <code>(35%)</code><br />Daily Activity:
-      <b>2550</b> <code>(25%)</code><br />Event: <b>1340</b> <code>(13%)</code
-      ><br />Mail: <b>830</b> <code>(8%)</code><br />Other: <b>692</b>
-      <code>(8%)</code><br />Forgotten Hall: <b>720</b> <code>(7%)</code
+      Adventure Rewards: <b>3555</b> <code>(34%)</code><br />Daily Activity:
+      <b>2640</b> <code>(25%)</code><br />Event: <b>1500</b> <code>(14%)</code
+      ><br />Other: <b>692</b> <code>(10%)</code><br />Mail: <b>830</b>
+      <code>(7%)</code><br />Forgotten Hall: <b>720</b> <code>(6%)</code
       ><br />Simulated Universe: <b>450</b> <code>(4%)</code><br />
     </td>
   </tr>
