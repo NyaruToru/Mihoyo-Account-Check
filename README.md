@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>May 19, 2024 08:09 +0700</u> (🤖Automated)
+  🕒 Updated at <u>May 19, 2024 19:26 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -778,11 +778,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      <b>Zhongli</b> <code>(8)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
@@ -793,11 +788,16 @@
         height="18"
       />
       <b>Furina</b> <code>(8)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      <b>Nahida</b> <code>(7)</code><br />
+      <b>Zhongli</b> <code>(8)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Nilou.png"
+        ,
+        height="18"
+      />
+      <b>Nilou</b> <code>(7)</code><br />
     </td>
   </tr>
   <tr>
@@ -9940,7 +9940,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>371</b></td>
+    <td><b>372</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9952,7 +9952,7 @@
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td><b>700</b></td>
+    <td><b>702</b></td>
   </tr>
 </table>
 
@@ -9965,7 +9965,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>10692</b> <code>(rate -22)</code></td>
+    <td align="center"><b>10852</b> <code>(rate -21)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9986,9 +9986,9 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: <b>3620</b> <code>(33%)</code><br />Daily Activity:
-      <b>2700</b> <code>(25%)</code><br />Event: <b>1680</b> <code>(15%)</code
-      ><br />Other: <b>692</b> <code>(10%)</code><br />Mail: <b>830</b>
+      Adventure Rewards: <b>3630</b> <code>(33%)</code><br />Daily Activity:
+      <b>2850</b> <code>(26%)</code><br />Event: <b>1680</b> <code>(15%)</code
+      ><br />Other: <b>692</b> <code>(9%)</code><br />Mail: <b>830</b>
       <code>(7%)</code><br />Forgotten Hall: <b>720</b> <code>(6%)</code
       ><br />Simulated Universe: <b>450</b> <code>(4%)</code><br />
     </td>
