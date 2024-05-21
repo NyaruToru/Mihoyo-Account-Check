@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>May 20, 2024 19:30 +0700</u> (🤖Automated)
+  🕒 Updated at <u>May 21, 2024 08:05 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -117,22 +117,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>20</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>21</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Adventurer's Experience</b>
+      <b>8000 x Mora</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-20 09:05:27+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-05-21 09:05:08+08:00</b></td>
   </tr>
 </table>
 
@@ -793,11 +793,11 @@
         height="18"
       />
       <b>Zhongli</b> <code>(8)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Nilou.png"
+        src="https://enka.network/ui/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      <b>Nilou</b> <code>(7)</code><br />
+      <b>Nahida</b> <code>(7)</code><br />
     </td>
   </tr>
   <tr>
@@ -9907,22 +9907,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>20</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>21</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      <b>20 x Stellar Jade</b>
+      <b>3 x Adventure Log</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-20 07:34:35+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-05-21 09:05:09+08:00</b></td>
   </tr>
 </table>
 
@@ -9940,7 +9940,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>373</b></td>
+    <td><b>374</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9965,7 +9965,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>11247</b> <code>(rate -18)</code></td>
+    <td align="center"><b>11382</b> <code>(rate -17)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9986,11 +9986,11 @@
       Categories
     </td>
     <td>
-      Adventure Rewards: <b>3630</b> <code>(32%)</code><br />Daily Activity:
-      <b>3000</b> <code>(26%)</code><br />Event: <b>1680</b> <code>(14%)</code
-      ><br />Other: <b>692</b> <code>(9%)</code><br />Mail: <b>850</b>
-      <code>(7%)</code><br />Simulated Universe: <b>675</b> <code>(6%)</code
-      ><br />Forgotten Hall: <b>720</b> <code>(6%)</code><br />
+      Adventure Rewards: <b>3630</b> <code>(31%)</code><br />Daily Activity:
+      <b>3135</b> <code>(27%)</code><br />Event: <b>1680</b> <code>(14%)</code
+      ><br />Other: <b>692</b> <code>(10%)</code><br />Mail: <b>850</b>
+      <code>(7%)</code><br />Forgotten Hall: <b>720</b> <code>(6%)</code
+      ><br />Simulated Universe: <b>675</b> <code>(5%)</code><br />
     </td>
   </tr>
 </table>
@@ -10867,7 +10867,7 @@
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>4</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -11041,10 +11041,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/f42e3acf77042ab43c09252a48d65abe.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/c1d651234e596937a767ed5bb672d1ed.png"
             height="20"
           />
-          Trend of the Universal Market
+          Moment of Victory
         </h3>
       </th>
     </tr>
@@ -11059,7 +11059,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/f42e3acf77042ab43c09252a48d65abe.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u44f0b/c1d651234e596937a767ed5bb672d1ed.png"
           />
         </p>
       </td>
@@ -11149,7 +11149,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Trend of the Universal Market</td>
+            <td align="center">Moment of Victory</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -11157,7 +11157,7 @@
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
