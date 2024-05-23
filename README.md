@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>May 23, 2024 08:04 +0700</u> (🤖Automated)
+  🕒 Updated at <u>May 23, 2024 19:27 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -10016,7 +10016,7 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td align="center"><b>16</b></td>
+    <td align="center"><b>20</b></td>
   </tr>
   <tr>
     <td>Total Stars</td>
@@ -12422,7 +12422,13 @@
         </h3>
       </th>
       <th align="center">
-        <h3><img src="" height="20" /></h3>
+        <h3>
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uea52b/6d9d95ff78cdb221b0d7ac3336d04641.png"
+            height="20"
+          />
+          Past and Future
+        </h3>
       </th>
     </tr>
     <tr>
@@ -12434,7 +12440,11 @@
         </p>
       </td>
       <td>
-        <p align="center"><img src="" /></p>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uea52b/6d9d95ff78cdb221b0d7ac3336d04641.png"
+          />
+        </p>
       </td>
     </tr>
     <tr>
@@ -12522,15 +12532,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center"></td>
+            <td align="center">Past and Future</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code></code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
