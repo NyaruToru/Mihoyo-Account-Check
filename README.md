@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>May 24, 2024 19:27 +0700</u> (🤖Automated)
+  🕒 Updated at <u>May 25, 2024 08:04 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -117,22 +117,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>24</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>25</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/6ef98074e6e8c9c838e144d4db496434_4740225561143115197.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Mora</b>
+      <b>3 x Hero's Wit</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-24 09:05:32+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-05-25 09:04:15+08:00</b></td>
   </tr>
 </table>
 
@@ -9907,22 +9907,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>24</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>25</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6c600507c71c6eafa40ad3066c1c9601_4411785649112465062.png"
           ,
           height="80" /></a
       ><br />
-      <b>8000 x Credit</b>
+      <b>1 x Disposable Kinetic Arm</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-24 09:05:26+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-05-25 09:04:17+08:00</b></td>
   </tr>
 </table>
 
@@ -9940,7 +9940,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>377</b></td>
+    <td><b>378</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9948,7 +9948,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>513</b></td>
+    <td><b>516</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -9965,7 +9965,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>11947</b> <code>(rate -13)</code></td>
+    <td align="center"><b>12062</b> <code>(rate -12)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9986,11 +9986,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>3585</b> <code>(30%)</code><br />Adventure Rewards:
-      <b>3645</b> <code>(30%)</code><br />Event: <b>1680</b> <code>(14%)</code
-      ><br />Other: <b>692</b> <code>(8%)</code><br />Mail: <b>950</b>
-      <code>(7%)</code><br />Forgotten Hall: <b>720</b> <code>(6%)</code
-      ><br />Simulated Universe: <b>675</b> <code>(5%)</code><br />
+      Daily Activity: <b>3675</b> <code>(30%)</code><br />Adventure Rewards:
+      <b>3670</b> <code>(30%)</code><br />Event: <b>1680</b> <code>(13%)</code
+      ><br />Other: <b>692</b> <code>(10%)</code><br />Mail: <b>950</b>
+      <code>(7%)</code><br />Simulated Universe: <b>675</b> <code>(5%)</code
+      ><br />Forgotten Hall: <b>720</b> <code>(5%)</code><br />
     </td>
   </tr>
 </table>
@@ -11272,20 +11272,20 @@
             <td>Planar</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uea52b/167ea86176279b67aa1c204dab13fc74.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uea52b/9af92e3cac9a963a956815159dc48f36.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Insumousu's Whalefall Ship<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uea52b/96c7c279a12364a9c7d4437e4469802a.png"
+              Belobog's Fortress of Preservation<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uea52b/28a4090515cef0b829b89261cfc6a1bd.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Insumousu's Frayed Hawser<br />
+              Belobog's Iron Defense<br />
             </td>
           </tr>
         </table>
