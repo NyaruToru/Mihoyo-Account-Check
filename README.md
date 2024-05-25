@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>May 25, 2024 08:04 +0700</u> (🤖Automated)
+  🕒 Updated at <u>May 25, 2024 19:26 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -170,7 +170,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>991</b></td>
+    <td align="center"><b>992</b></td>
   </tr>
   <tr>
     <td>
@@ -862,7 +862,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>1517</b> <code>(rate -27)</code></td>
+    <td align="center"><b>1717</b> <code>(rate -17)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -873,18 +873,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1672555</b> <code>(rate 17)</code></td>
+    <td align="center"><b>1729555</b> <code>(rate 21)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Events: <b>850</b> <code>(57%)</code><br />Spiral Abyss: <b>300</b>
-      <code>(20%)</code><br />Daily Activity: <b>250</b> <code>(17%)</code
-      ><br />Mail: <b>60</b> <code>(3%)</code><br />Adventure: <b>26</b>
+      Events: <b>850</b> <code>(50%)</code><br />Spiral Abyss: <b>300</b>
+      <code>(18%)</code><br />Mail: <b>260</b> <code>(16%)</code><br />Daily
+      Activity: <b>250</b> <code>(14%)</code><br />Adventure: <b>26</b>
       <code>(1%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
-      <b>31</b> <code>(2%)</code><br />
+      <b>31</b> <code>(1%)</code><br />
     </td>
   </tr>
 </table>
@@ -9965,7 +9965,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>12062</b> <code>(rate -12)</code></td>
+    <td align="center"><b>12122</b> <code>(rate -12)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9986,7 +9986,7 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>3675</b> <code>(30%)</code><br />Adventure Rewards:
+      Daily Activity: <b>3735</b> <code>(30%)</code><br />Adventure Rewards:
       <b>3670</b> <code>(30%)</code><br />Event: <b>1680</b> <code>(13%)</code
       ><br />Other: <b>692</b> <code>(10%)</code><br />Mail: <b>950</b>
       <code>(7%)</code><br />Simulated Universe: <b>675</b> <code>(5%)</code
