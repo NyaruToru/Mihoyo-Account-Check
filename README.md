@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>May 28, 2024 08:05 +0700</u> (🤖Automated)
+  🕒 Updated at <u>May 28, 2024 19:28 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -9965,7 +9965,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>13267</b> <code>(rate -4)</code></td>
+    <td align="center"><b>13477</b> <code>(rate -2)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9986,9 +9986,9 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>3995</b> <code>(30%)</code><br />Adventure Rewards:
+      Daily Activity: <b>4145</b> <code>(30%)</code><br />Adventure Rewards:
       <b>3670</b> <code>(27%)</code><br />Event: <b>1680</b> <code>(12%)</code
-      ><br />Forgotten Hall: <b>1380</b> <code>(10%)</code><br />Other:
+      ><br />Forgotten Hall: <b>1440</b> <code>(10%)</code><br />Other:
       <b>692</b> <code>(8%)</code><br />Mail: <b>950</b> <code>(7%)</code
       ><br />Simulated Universe: <b>900</b> <code>(6%)</code><br />
     </td>
@@ -11093,13 +11093,13 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uea52b/585ec00aea32bd8568460a027d8bffe4.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uea52b/f4d29fc0d426ec39c3a0d33fd51afda6.png"
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+12</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Grand Duke's Crown of Netherflame<br /><img
+              Firesmith's Obsidian Goggles<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uea52b/a17e98ea626cbdbf750ba373ce6dae3c.png"
                 ,
                 height="25"
@@ -11138,7 +11138,7 @@
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
               Salsotto's Terminator Line<br />
             </td>
@@ -11588,11 +11588,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+80</code></td>
+            <td align="center"><code>+1</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -11997,13 +11997,20 @@
             <td>Planar</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uea52b/75d92d23901e92c7812a52e243e03c62.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uea52b/167ea86176279b67aa1c204dab13fc74.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐<br />
-              Vonwacq's Island of Birth<br />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Insumousu's Whalefall Ship<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uea52b/96c7c279a12364a9c7d4437e4469802a.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Insumousu's Frayed Hawser<br />
             </td>
           </tr>
         </table>
@@ -12119,7 +12126,7 @@
                 ,
                 height="25"
               />
-              <code>+11</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Champion's Chest Guard<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uea52b/fbe41043cab1929a5acc5870c6d80888.png"
@@ -12142,13 +12149,13 @@
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Salsotto's Moving City<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uea52b/3932cfc0723ac2726aef393c3a6e23ac.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uea52b/d265ea91af67885e4be71023d14a741b.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Taikiyan's Arclight Race Track<br />
+              Salsotto's Terminator Line<br />
             </td>
           </tr>
         </table>
@@ -12161,11 +12168,11 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+1</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -12376,7 +12383,7 @@
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
               Salsotto's Terminator Line<br />
             </td>
@@ -13536,27 +13543,27 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uea52b/448da9b999e9c782a2115edc7b8045e0.png"
-                ,
-                height="25"
-              />
-              <code>+0</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Wastelander's Breathing Mask<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uea52b/f7327ece7aad15d4d6d25e3ca962f354.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uea52b/585ec00aea32bd8568460a027d8bffe4.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Firesmith's Ring of Flame-Mastery<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uea52b/b83e1a2608b132ffa30a55a606c852bd.png"
+              Grand Duke's Crown of Netherflame<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uea52b/db478b13b9cd1ce2b06a677e8e04592b.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Wastelander's Friar Robe<br /><img
+              Grand Duke's Gloves of Fieryfur<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uea52b/0111e70a748ab038215832f3a7f77437.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Grand Duke's Robe of Grace<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uea52b/95b003736aaebaea072164258b072c10.png"
                 ,
                 height="25"
@@ -13574,14 +13581,14 @@
                 ,
                 height="25"
               />
-              <code>+12</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Salsotto's Moving City<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_uea52b/d265ea91af67885e4be71023d14a741b.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Salsotto's Terminator Line<br />
             </td>
