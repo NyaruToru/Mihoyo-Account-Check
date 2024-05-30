@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>May 29, 2024 19:29 +0700</u> (🤖Automated)
+  🕒 Updated at <u>May 30, 2024 08:06 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -117,7 +117,7 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>29</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>30</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -132,7 +132,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-29 09:09:00+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-05-30 09:06:22+08:00</b></td>
   </tr>
 </table>
 
@@ -9907,7 +9907,7 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>29</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>30</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9922,7 +9922,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-29 09:09:02+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-05-30 09:06:24+08:00</b></td>
   </tr>
 </table>
 
@@ -9940,7 +9940,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>382</b></td>
+    <td><b>383</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9965,7 +9965,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>14667</b> <code>(rate 6)</code></td>
+    <td align="center"><b>14807</b> <code>(rate 7)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9986,11 +9986,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>4295</b> <code>(29%)</code><br />Adventure Rewards:
-      <b>3670</b> <code>(25%)</code><br />Event: <b>2720</b> <code>(18%)</code
+      Daily Activity: <b>4385</b> <code>(29%)</code><br />Adventure Rewards:
+      <b>3670</b> <code>(24%)</code><br />Event: <b>2720</b> <code>(18%)</code
       ><br />Forgotten Hall: <b>1440</b> <code>(9%)</code><br />Other:
-      <b>692</b> <code>(7%)</code><br />Simulated Universe: <b>900</b>
-      <code>(6%)</code><br />Mail: <b>950</b> <code>(6%)</code><br />
+      <b>692</b> <code>(8%)</code><br />Simulated Universe: <b>900</b>
+      <code>(6%)</code><br />Mail: <b>1000</b> <code>(6%)</code><br />
     </td>
   </tr>
 </table>
