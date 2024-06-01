@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>May 31, 2024 19:28 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 01, 2024 08:10 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -117,22 +117,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>31</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>1</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Mora</b>
+      <b>3 x Adventurer's Experience</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-31 09:06:51+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-06-01 09:10:13+08:00</b></td>
   </tr>
 </table>
 
@@ -170,7 +170,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>993</b></td>
+    <td align="center"><b>994</b></td>
   </tr>
   <tr>
     <td>
@@ -284,7 +284,7 @@
     <td>
       <img src="./images/logo/spiral-abyss.webp" , height="18" /> Spiral Abyss
     </td>
-    <td align="center"><b>8-3</b></td>
+    <td align="center"><b>-</b></td>
   </tr>
 </table>
 
@@ -727,128 +727,6 @@
   </tr>
 </table>
 <h2 align="center">
-  <img
-    src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png"
-    ,
-    height="20"
-  />
-  Spiral Abyss
-  <img
-    src="https://game-cdn.appsample.com/gim/images/memu-spiral-abyss.png"
-    ,
-    height="20"
-  />
-</h2>
-<table align="center">
-  <tr>
-    <td colspan="2" align="center">
-      <img src="./images/logo/spiral-abyss.webp" , height="18" /> Season:
-      <b>93</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="./images/logo/floor.webp" , height="18" /> Max Floor:
-      <b>11-1</b>
-    </td>
-    <td align="center">
-      <img src="./images/logo/battle.webp" , height="18" /> Total Battles:
-      <b>10</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="./images/logo/wins.webp" , height="18" /> Total Wins: <b>8</b>
-    </td>
-    <td align="center">
-      <img src="./images/logo/star.png" , height="18" /> Total Stars: <b>21</b>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      🕐 Start Time: <b>2024-04-30 20:00:00+00:00</b>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      🕛 End Time: <b>2024-05-15 19:59:59+00:00</b>
-    </td>
-  </tr>
-  <tr>
-    <td>Most Played Characters</td>
-    <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      <b>Zhongli</b> <code>(8)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
-        ,
-        height="18"
-      />
-      <b>Baizhu</b> <code>(8)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
-        ,
-        height="18"
-      />
-      <b>Furina</b> <code>(8)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Nilou.png"
-        ,
-        height="18"
-      />
-      <b>Nilou</b> <code>(7)</code><br />
-    </td>
-  </tr>
-  <tr>
-    <td>Most Defeats</td>
-    <td>
-      <img src="https://enka.network/ui/UI_AvatarIcon_Itto.png" , height="18" />
-      <b>Arataki Itto</b> <code>(16)</code><br />
-    </td>
-  </tr>
-  <tr>
-    <td>Strongest Single Strike</td>
-    <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      <b>Raiden Shogun</b> <code>(73984)</code><br />
-    </td>
-  </tr>
-  <tr>
-    <td>Most Damage Taken</td>
-    <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Nilou.png"
-        ,
-        height="18"
-      />
-      <b>Nilou</b> <code>(53365)</code><br />
-    </td>
-  </tr>
-  <tr>
-    <td>Elemental Bursts Unleashed</td>
-    <td>
-      <img
-        src="https://enka.network/ui/UI_AvatarIcon_Furina.png"
-        ,
-        height="18"
-      />
-      <b>Furina</b> <code>(12)</code><br />
-    </td>
-  </tr>
-  <tr>
-    <td>Elemental Skills Cast</td>
-    <td>
-      <img src="https://enka.network/ui/UI_AvatarIcon_Yae.png" , height="18" />
-      <b>Yae Miko</b> <code>(52)</code><br />
-    </td>
-  </tr>
-</table>
-<h2 align="center">
   <img src="./images/logo/genshin_diary.png" height="20" /> Diary
   <img src="./images/logo/genshin_diary.png" height="20" />
 </h2>
@@ -862,7 +740,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>1717</b> <code>(rate -17)</code></td>
+    <td align="center"><b>0</b> <code>(rate -100)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -873,18 +751,18 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>1729555</b> <code>(rate 21)</code></td>
+    <td align="center"><b>17600</b> <code>(rate -98)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Events: <b>850</b> <code>(50%)</code><br />Spiral Abyss: <b>300</b>
-      <code>(18%)</code><br />Mail: <b>260</b> <code>(16%)</code><br />Daily
-      Activity: <b>250</b> <code>(14%)</code><br />Adventure: <b>26</b>
-      <code>(1%)</code><br />Quests: <b>0</b> <code>(0%)</code><br />Other:
-      <b>31</b> <code>(1%)</code><br />
+      Events: <b>0</b> <code>(0%)</code><br />Daily Activity: <b>0</b>
+      <code>(0%)</code><br />Spiral Abyss: <b>0</b> <code>(0%)</code
+      ><br />Quests: <b>0</b> <code>(0%)</code><br />Adventure: <b>0</b>
+      <code>(0%)</code><br />Mail: <b>0</b> <code>(0%)</code><br />Other:
+      <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -9907,22 +9785,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>31</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>1</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Credit</b>
+      <b>2 x Adventure Log</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-05-31 09:06:52+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-06-01 09:10:15+08:00</b></td>
   </tr>
 </table>
 
@@ -9940,7 +9818,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>384</b></td>
+    <td><b>385</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9965,7 +9843,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>14957</b> <code>(rate 8)</code></td>
+    <td align="center"><b>100</b> <code>(rate -99)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9975,7 +9853,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>39</b> <code>(rate 2)</code></td>
+    <td align="center"><b>10</b> <code>(rate -74)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9986,11 +9864,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>4535</b> <code>(30%)</code><br />Adventure Rewards:
-      <b>3670</b> <code>(24%)</code><br />Event: <b>2720</b> <code>(18%)</code
-      ><br />Forgotten Hall: <b>1440</b> <code>(9%)</code><br />Other:
-      <b>692</b> <code>(7%)</code><br />Simulated Universe: <b>900</b>
-      <code>(6%)</code><br />Mail: <b>1000</b> <code>(6%)</code><br />
+      Daily Activity: <b>100</b> <code>(100%)</code><br />Event: <b>0</b>
+      <code>(0%)</code><br />Adventure Rewards: <b>0</b> <code>(0%)</code
+      ><br />Simulated Universe: <b>0</b> <code>(0%)</code><br />Forgotten Hall:
+      <b>0</b> <code>(0%)</code><br />Mail: <b>0</b> <code>(0%)</code
+      ><br />Other: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -11186,10 +11064,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/a810a3e91f4e0c8d7cfe72b4781abffd.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/1ea473eb1d482286238dfbbce6c6d9e5.png"
             height="20"
           />
-          Moment of Victory
+          Trend of the Universal Market
         </h3>
       </th>
     </tr>
@@ -11204,7 +11082,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/a810a3e91f4e0c8d7cfe72b4781abffd.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/1ea473eb1d482286238dfbbce6c6d9e5.png"
           />
         </p>
       </td>
@@ -11272,20 +11150,20 @@
             <td>Planar</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/4ec46797712293ab953ff0daf0d7b861.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/9eb50d3b1d233b1dfb2c92cc1dc59a69.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Belobog's Fortress of Preservation<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/8c678390b130e15e8d8043a0ae252f54.png"
+              Insumousu's Whalefall Ship<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/b85282d0ec6151ecbd64b9386ad64bc1.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Belobog's Iron Defense<br />
+              Insumousu's Frayed Hawser<br />
             </td>
           </tr>
         </table>
@@ -11294,7 +11172,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Moment of Victory</td>
+            <td align="center">Trend of the Universal Market</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -11302,7 +11180,7 @@
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -11532,7 +11410,7 @@
                 ,
                 height="25"
               />
-              <code>+9</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Musketeer's Wild Wheat Felt Hat<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/a50ebe7e706d5786168e33aded131e94.png"
@@ -12847,6 +12725,151 @@
 <details>
   <summary align="center">
     <img
+      src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+      height="18"
+    /><b> Himeko </b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th align="center">
+        <h3>
+          <img
+            src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+            height="20"
+          />
+          Himeko
+        </h3>
+      </th>
+      <th align="center">
+        <h3>
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/b217906b3d9803962d306ff7abbba2e7.png"
+            height="20"
+          />
+          The Seriousness of Breakfast
+        </h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/7ef41dd429d461f0fd099ffc36e64280.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/b217906b3d9803962d306ff7abbba2e7.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
+                height="18"
+              />
+              fire
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+80</code></td>
+          </tr>
+          <tr>
+            <td>Eidolon</td>
+            <td align="center"><code>2</code></td>
+          </tr>
+          <tr>
+            <td>Relics</td>
+            <td align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/b64350f8478ee8640e1162e5b5854fc0.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Grand Duke's Crown of Netherflame<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/834a4a0535c85ea563b71b1ad4b518f6.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Grand Duke's Gloves of Fieryfur<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/560a30d73f7f712247f5068925cf62c0.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Grand Duke's Robe of Grace<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/85ca3a88fabb7a02a1497e54932931d1.png"
+                ,
+                height="25"
+              />
+              <code>+12</code><br />
+              ⭐⭐⭐⭐<br />
+              Grand Duke's Ceremonial Boots<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Planar</td>
+            <td align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/6549d054a354f642b4e593762050a4b1.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Salsotto's Moving City<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/283fee1ca8499da6e8de209cd98c2c87.png"
+                ,
+                height="25"
+              />
+              <code>+15</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Salsotto's Terminator Line<br />
+            </td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center">The Seriousness of Breakfast</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+70</code></td>
+          </tr>
+          <tr>
+            <td>Superimpose</td>
+            <td align="center"><code>5</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
       src="https://hsr.honeyhunterworld.com/img/damage_type/lightning-damage_type_icon_50.webp"
       height="18"
     /><b> Tingyun </b>
@@ -13074,7 +13097,7 @@
                 ,
                 height="25"
               />
-              <code>+12</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Guard's Shining Gauntlets<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/cf3da71040cddaa22138b12451fb97e9.png"
@@ -13463,151 +13486,6 @@
           <tr>
             <td>Superimpose</td>
             <td align="center"><code>1</code></td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary align="center">
-    <img
-      src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
-      height="18"
-    /><b> Himeko </b>
-  </summary>
-  <br />
-  <table align="center">
-    <tr>
-      <th align="center">
-        <h3>
-          <img
-            src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
-            height="20"
-          />
-          Himeko
-        </h3>
-      </th>
-      <th align="center">
-        <h3>
-          <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/b217906b3d9803962d306ff7abbba2e7.png"
-            height="20"
-          />
-          The Seriousness of Breakfast
-        </h3>
-      </th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/7ef41dd429d461f0fd099ffc36e64280.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/b217906b3d9803962d306ff7abbba2e7.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table align="center">
-          <tr>
-            <td>Rarity</td>
-            <td align="center">⭐⭐⭐⭐⭐</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td align="center">
-              <img
-                src="https://hsr.honeyhunterworld.com/img/damage_type/fire-damage_type_icon_50.webp"
-                height="18"
-              />
-              fire
-            </td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+70</code></td>
-          </tr>
-          <tr>
-            <td>Eidolon</td>
-            <td align="center"><code>2</code></td>
-          </tr>
-          <tr>
-            <td>Relics</td>
-            <td align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/b64350f8478ee8640e1162e5b5854fc0.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Grand Duke's Crown of Netherflame<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/834a4a0535c85ea563b71b1ad4b518f6.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Grand Duke's Gloves of Fieryfur<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/560a30d73f7f712247f5068925cf62c0.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Grand Duke's Robe of Grace<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/85ca3a88fabb7a02a1497e54932931d1.png"
-                ,
-                height="25"
-              />
-              <code>+12</code><br />
-              ⭐⭐⭐⭐<br />
-              Grand Duke's Ceremonial Boots<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Planar</td>
-            <td align="center">
-              <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/6549d054a354f642b4e593762050a4b1.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Salsotto's Moving City<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/283fee1ca8499da6e8de209cd98c2c87.png"
-                ,
-                height="25"
-              />
-              <code>+15</code><br />
-              ⭐⭐⭐⭐⭐<br />
-              Salsotto's Terminator Line<br />
-            </td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table align="center">
-          <tr>
-            <td>Name</td>
-            <td align="center">The Seriousness of Breakfast</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td align="center"><code>+70</code></td>
-          </tr>
-          <tr>
-            <td>Superimpose</td>
-            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
