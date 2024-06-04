@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jun 03, 2024 08:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 04, 2024 08:07 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -117,22 +117,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>3</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>4</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Mora</b>
+      <b>20 x Primogem</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-06-03 09:07:39+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-06-04 09:07:09+08:00</b></td>
   </tr>
 </table>
 
@@ -9785,22 +9785,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>3</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>4</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/4aa31979af47b9f4dab8d5627f5fa8ed_1292021808517312921.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Credit</b>
+      <b>1 x Canned Soda</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-06-03 09:07:39+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-06-04 09:07:10+08:00</b></td>
   </tr>
 </table>
 
@@ -9818,7 +9818,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>387</b></td>
+    <td><b>388</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9843,7 +9843,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>380</b> <code>(rate -97)</code></td>
+    <td align="center"><b>755</b> <code>(rate -94)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9853,7 +9853,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>10</b> <code>(rate -74)</code></td>
+    <td align="center"><b>12</b> <code>(rate -69)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9864,10 +9864,10 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>300</b> <code>(78%)</code><br />Mail: <b>80</b>
-      <code>(21%)</code><br />Other: <b>0</b> <code>(1%)</code><br />Event:
-      <b>0</b> <code>(0%)</code><br />Adventure Rewards: <b>0</b>
-      <code>(0%)</code><br />Simulated Universe: <b>0</b> <code>(0%)</code
+      Daily Activity: <b>450</b> <code>(59%)</code><br />Simulated Universe:
+      <b>225</b> <code>(29%)</code><br />Mail: <b>80</b> <code>(10%)</code
+      ><br />Other: <b>0</b> <code>(2%)</code><br />Event: <b>0</b>
+      <code>(0%)</code><br />Adventure Rewards: <b>0</b> <code>(0%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
