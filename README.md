@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jun 08, 2024 08:06 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 09, 2024 08:12 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -117,22 +117,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>8</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>9</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Adventurer's Experience</b>
+      <b>3 x Fine Enhancement Ore</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-06-08 09:06:46+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-06-09 09:12:55+08:00</b></td>
   </tr>
 </table>
 
@@ -9911,22 +9911,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>8</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>9</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
           ,
           height="80" /></a
       ><br />
-      <b>1 x Lost Gold Fragment</b>
+      <b>5000 x Credit</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-06-08 09:06:48+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-06-09 09:12:56+08:00</b></td>
   </tr>
 </table>
 
@@ -9944,7 +9944,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>391</b></td>
+    <td><b>392</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9969,7 +9969,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>1695</b> <code>(rate -88)</code></td>
+    <td align="center"><b>1845</b> <code>(rate -87)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9990,9 +9990,9 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>1050</b> <code>(61%)</code><br />Mail: <b>420</b>
-      <code>(24%)</code><br />Simulated Universe: <b>225</b> <code>(13%)</code
-      ><br />Other: <b>0</b> <code>(2%)</code><br />Event: <b>0</b>
+      Daily Activity: <b>1200</b> <code>(65%)</code><br />Mail: <b>420</b>
+      <code>(22%)</code><br />Simulated Universe: <b>225</b> <code>(12%)</code
+      ><br />Other: <b>0</b> <code>(1%)</code><br />Event: <b>0</b>
       <code>(0%)</code><br />Adventure Rewards: <b>0</b> <code>(0%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
@@ -11097,13 +11097,13 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/2c983af6a1551baa02baa45cd65b1f9e.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/b64350f8478ee8640e1162e5b5854fc0.png"
                 ,
                 height="25"
               />
-              <code>+12</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Firesmith's Obsidian Goggles<br /><img
+              Grand Duke's Crown of Netherflame<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/05b984e639e7398ed502827309c28bcc.png"
                 ,
                 height="25"
@@ -11142,7 +11142,7 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Salsotto's Terminator Line<br />
             </td>
@@ -11276,20 +11276,20 @@
             <td>Planar</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/9eb50d3b1d233b1dfb2c92cc1dc59a69.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/4ec46797712293ab953ff0daf0d7b861.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Insumousu's Whalefall Ship<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/b85282d0ec6151ecbd64b9386ad64bc1.png"
+              Belobog's Fortress of Preservation<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/8c678390b130e15e8d8043a0ae252f54.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Insumousu's Frayed Hawser<br />
+              Belobog's Iron Defense<br />
             </td>
           </tr>
         </table>
@@ -12157,7 +12157,7 @@
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
               Salsotto's Terminator Line<br />
             </td>
@@ -12922,13 +12922,13 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/b64350f8478ee8640e1162e5b5854fc0.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/2c983af6a1551baa02baa45cd65b1f9e.png"
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+12</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Grand Duke's Crown of Netherflame<br /><img
+              Firesmith's Obsidian Goggles<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/834a4a0535c85ea563b71b1ad4b518f6.png"
                 ,
                 height="25"
