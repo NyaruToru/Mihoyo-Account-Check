@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jun 09, 2024 08:12 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 10, 2024 08:09 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -117,22 +117,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>9</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>10</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Fine Enhancement Ore</b>
+      <b>5000 x Mora</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-06-09 09:12:55+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-06-10 09:09:24+08:00</b></td>
   </tr>
 </table>
 
@@ -170,7 +170,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>997</b></td>
+    <td align="center"><b>998</b></td>
   </tr>
   <tr>
     <td>
@@ -181,7 +181,7 @@
       />
       Characters
     </td>
-    <td align="center"><b>61</b></td>
+    <td align="center"><b>62</b></td>
   </tr>
   <tr>
     <td>
@@ -783,16 +783,16 @@
         height="18"
       />
       <b>Kaedehara Kazuha</b> <code>(8)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      <b>Zhongli</b> <code>(8)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Yae.png"
         ,
         height="18"
       />
       <b>Yae Miko</b> <code>(8)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      <b>Zhongli</b> <code>(8)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
@@ -866,7 +866,7 @@
       />
       Primogems earned
     </td>
-    <td align="center"><b>1480</b> <code>(rate -13)</code></td>
+    <td align="center"><b>2100</b> <code>(rate 22)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -877,16 +877,16 @@
       />
       Mora earned
     </td>
-    <td align="center"><b>691569</b> <code>(rate -60)</code></td>
+    <td align="center"><b>1157869</b> <code>(rate -33)</code></td>
   </tr>
   <tr>
     <td align="center">
       <img src="./images/logo/quest.webp" , height="18" /> Categories
     </td>
     <td>
-      Mail: <b>680</b> <code>(46%)</code><br />Spiral Abyss: <b>400</b>
-      <code>(28%)</code><br />Events: <b>300</b> <code>(20%)</code><br />Daily
-      Activity: <b>100</b> <code>(6%)</code><br />Quests: <b>0</b>
+      Events: <b>780</b> <code>(38%)</code><br />Mail: <b>780</b>
+      <code>(37%)</code><br />Spiral Abyss: <b>400</b> <code>(19%)</code
+      ><br />Daily Activity: <b>140</b> <code>(6%)</code><br />Quests: <b>0</b>
       <code>(0%)</code><br />Adventure: <b>0</b> <code>(0%)</code><br />Other:
       <b>0</b> <code>(0%)</code><br />
     </td>
@@ -9627,6 +9627,129 @@
 <details>
   <summary align="center">
     <img
+      src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
+      ,
+      height="18"
+    /><b> Qiqi</b>
+  </summary>
+  <br />
+  <table align="center">
+    <tr>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
+            ,
+            height="20"
+          />
+          Qiqi
+        </h3>
+      </th>
+      <th>
+        <h3 align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/9ac36ebd3523af9564cd3110c0ed3340.png"
+            ,
+            height="20"
+          />
+          Dull Blade
+        </h3>
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://enka.network/ui/UI_AvatarIcon_Qiqi.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u63dbg/9ac36ebd3523af9564cd3110c0ed3340.png"
+            ,
+            height="256"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table align="center">
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td align="center">
+              <img
+                src="https://genshin.honeyhunterworld.com/img/icons/element/cryo_35.webp"
+                ,
+                height="18"
+              />
+              Cryo
+            </td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+20</code></td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>Artifacts<br /></td>
+            <td align="center"></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td align="center"></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table align="center">
+          <tr>
+            <td>Name</td>
+            <td align="center">Dull Blade</td>
+          </tr>
+          <tr>
+            <td>Type</td>
+            <td align="center">Sword</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td align="center">⭐</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td align="center"><code>+1</code></td>
+          </tr>
+          <tr>
+            <td>Ascension</td>
+            <td align="center"><code>0</code></td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td align="center"><code>1</code></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary align="center">
+    <img
       src="https://genshin.honeyhunterworld.com/img/icons/element/hydro_35.webp"
       ,
       height="18"
@@ -9911,22 +10034,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>9</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>10</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Credit</b>
+      <b>3 x Adventure Log</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-06-09 09:12:56+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-06-10 09:09:25+08:00</b></td>
   </tr>
 </table>
 
@@ -9944,7 +10067,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>392</b></td>
+    <td><b>393</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -9969,7 +10092,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>1845</b> <code>(rate -87)</code></td>
+    <td align="center"><b>1995</b> <code>(rate -86)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -9990,449 +10113,12 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>1200</b> <code>(65%)</code><br />Mail: <b>420</b>
-      <code>(22%)</code><br />Simulated Universe: <b>225</b> <code>(12%)</code
+      Daily Activity: <b>1350</b> <code>(67%)</code><br />Mail: <b>420</b>
+      <code>(21%)</code><br />Simulated Universe: <b>225</b> <code>(11%)</code
       ><br />Other: <b>0</b> <code>(1%)</code><br />Event: <b>0</b>
       <code>(0%)</code><br />Adventure Rewards: <b>0</b> <code>(0%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
-  </tr>
-</table>
-<h2 align="center">
-  <img
-    src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp"
-    height="20"
-  />
-  Memory of Chaos
-  <img
-    src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp"
-    height="20"
-  />
-</h2>
-<table align="center">
-  <tr>
-    <td>Season</td>
-    <td align="center"><b>1014</b></td>
-  </tr>
-  <tr>
-    <td>Max Floor</td>
-    <td align="center"><b>Dream Within Dream Stage 12</b></td>
-  </tr>
-  <tr>
-    <td>Total Battles</td>
-    <td align="center"><b>20</b></td>
-  </tr>
-  <tr>
-    <td>Total Stars</td>
-    <td align="center"><b>36</b></td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Dream Within Dream Stage 12</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>10</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/0309983ec200f627bc2d99f509624124.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/d1166d534037799c22d45190c79e0371.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/7d8907a6d94202a5febf851179699549.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/1c77613080a06aca28130db100cdebaf.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/8bece041cb0ddef80b5514b428574300.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/f9b954cb0feed9dd2f02a00b5067d72b.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/a8e5c612a6a97d6987fa9b69ec6666b3.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/5fed4a855371389d2c0961bb5dab126a.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Dream Within Dream Stage 11</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>9</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/0309983ec200f627bc2d99f509624124.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/d1166d534037799c22d45190c79e0371.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/7d8907a6d94202a5febf851179699549.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/1c77613080a06aca28130db100cdebaf.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/8bece041cb0ddef80b5514b428574300.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/f9b954cb0feed9dd2f02a00b5067d72b.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/a8e5c612a6a97d6987fa9b69ec6666b3.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/5fed4a855371389d2c0961bb5dab126a.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Dream Within Dream Stage 10</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>6</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/8bece041cb0ddef80b5514b428574300.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/f9b954cb0feed9dd2f02a00b5067d72b.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/a8e5c612a6a97d6987fa9b69ec6666b3.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/5fed4a855371389d2c0961bb5dab126a.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/a8861828e861d1d42ce2ae2655330507.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/f3976a0967a9694ec8fd262d50ab4cfa.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/7d8907a6d94202a5febf851179699549.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/1c77613080a06aca28130db100cdebaf.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Dream Within Dream Stage 9</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>5</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/0309983ec200f627bc2d99f509624124.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/d1166d534037799c22d45190c79e0371.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/7d8907a6d94202a5febf851179699549.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/1c77613080a06aca28130db100cdebaf.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/8bece041cb0ddef80b5514b428574300.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/f9b954cb0feed9dd2f02a00b5067d72b.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/a8e5c612a6a97d6987fa9b69ec6666b3.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/5fed4a855371389d2c0961bb5dab126a.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Dream Within Dream Stage 8</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>6</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/0309983ec200f627bc2d99f509624124.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/d1166d534037799c22d45190c79e0371.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/7d8907a6d94202a5febf851179699549.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/1c77613080a06aca28130db100cdebaf.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/8bece041cb0ddef80b5514b428574300.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/f9b954cb0feed9dd2f02a00b5067d72b.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/a8e5c612a6a97d6987fa9b69ec6666b3.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/5fed4a855371389d2c0961bb5dab126a.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Dream Within Dream Stage 7</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>2</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/0309983ec200f627bc2d99f509624124.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/d1166d534037799c22d45190c79e0371.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/7d8907a6d94202a5febf851179699549.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/1c77613080a06aca28130db100cdebaf.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center">
-      <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/8bece041cb0ddef80b5514b428574300.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/f9b954cb0feed9dd2f02a00b5067d72b.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/a8e5c612a6a97d6987fa9b69ec6666b3.png"
-        height="18"
-      /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/657900960a8d5dfb15563dbf551b168e.png"
-        height="18"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Dream Within Dream Stage 6</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>0</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Dream Within Dream Stage 5</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>0</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Dream Within Dream Stage 4</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>0</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Dream Within Dream Stage 3</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>0</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Dream Within Dream Stage 2</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>0</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td>Name</td>
-    <td align="center"><b>Dream Within Dream Stage 1</b></td>
-  </tr>
-  <tr>
-    <td>Floor</td>
-    <td align="center"><b>3 Stars</b></td>
-  </tr>
-  <tr>
-    <td>Cycles used</td>
-    <td align="center"><b>0</b></td>
-  </tr>
-  <tr>
-    <td>Party 1</td>
-    <td align="center"></td>
-  </tr>
-  <tr>
-    <td>Party 2</td>
-    <td align="center"></td>
   </tr>
 </table>
 <p align="center">
