@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jun 10, 2024 08:09 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 11, 2024 08:08 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -117,22 +117,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>10</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>11</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Mora</b>
+      <b>20 x Primogem</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-06-10 09:09:24+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-06-11 09:08:00+08:00</b></td>
   </tr>
 </table>
 
@@ -778,6 +778,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      <b>Zhongli</b> <code>(8)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
@@ -788,11 +793,6 @@
         height="18"
       />
       <b>Yae Miko</b> <code>(8)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      <b>Zhongli</b> <code>(8)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
@@ -10034,22 +10034,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>10</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>11</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Adventure Log</b>
+      <b>2 x Lost Gold Fragment</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-06-10 09:09:25+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-06-11 09:08:01+08:00</b></td>
   </tr>
 </table>
 
@@ -10067,7 +10067,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>393</b></td>
+    <td><b>394</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -10092,7 +10092,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>1995</b> <code>(rate -86)</code></td>
+    <td align="center"><b>3030</b> <code>(rate -79)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -10102,7 +10102,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>12</b> <code>(rate -69)</code></td>
+    <td align="center"><b>14</b> <code>(rate -64)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -10113,12 +10113,401 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>1350</b> <code>(67%)</code><br />Mail: <b>420</b>
-      <code>(21%)</code><br />Simulated Universe: <b>225</b> <code>(11%)</code
-      ><br />Other: <b>0</b> <code>(1%)</code><br />Event: <b>0</b>
-      <code>(0%)</code><br />Adventure Rewards: <b>0</b> <code>(0%)</code
-      ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
+      Daily Activity: <b>1500</b> <code>(49%)</code><br />Forgotten Hall:
+      <b>660</b> <code>(21%)</code><br />Simulated Universe: <b>450</b>
+      <code>(14%)</code><br />Mail: <b>420</b> <code>(13%)</code><br />Other:
+      <b>0</b> <code>(3%)</code><br />Event: <b>0</b> <code>(0%)</code
+      ><br />Adventure Rewards: <b>0</b> <code>(0%)</code><br />
     </td>
+  </tr>
+</table>
+<h2 align="center">
+  <img
+    src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp"
+    height="20"
+  />
+  Memory of Chaos
+  <img
+    src="https://genshin.honeyhunterworld.com/img/hnb_10001_35.webp"
+    height="20"
+  />
+</h2>
+<table align="center">
+  <tr>
+    <td>Season</td>
+    <td align="center"><b>1015</b></td>
+  </tr>
+  <tr>
+    <td>Max Floor</td>
+    <td align="center"><b>A Song's True Theme Stage 11</b></td>
+  </tr>
+  <tr>
+    <td>Total Battles</td>
+    <td align="center"><b>9</b></td>
+  </tr>
+  <tr>
+    <td>Total Stars</td>
+    <td align="center"><b>33</b></td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center"><b>A Song's True Theme Stage 11</b></td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center"><b>3 Stars</b></td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center"><b>7</b></td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/0309983ec200f627bc2d99f509624124.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/d1166d534037799c22d45190c79e0371.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/4efeb534103b1668b3c7d59d354069f0.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/1c77613080a06aca28130db100cdebaf.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/8bece041cb0ddef80b5514b428574300.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/f9b954cb0feed9dd2f02a00b5067d72b.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/a8e5c612a6a97d6987fa9b69ec6666b3.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/5fed4a855371389d2c0961bb5dab126a.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center"><b>A Song's True Theme Stage 10</b></td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center"><b>3 Stars</b></td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center"><b>7</b></td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/a8861828e861d1d42ce2ae2655330507.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/4efeb534103b1668b3c7d59d354069f0.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/7d8907a6d94202a5febf851179699549.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/1c77613080a06aca28130db100cdebaf.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/8bece041cb0ddef80b5514b428574300.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/f9b954cb0feed9dd2f02a00b5067d72b.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/a8e5c612a6a97d6987fa9b69ec6666b3.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/5fed4a855371389d2c0961bb5dab126a.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center"><b>A Song's True Theme Stage 9</b></td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center"><b>3 Stars</b></td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center"><b>3</b></td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/0309983ec200f627bc2d99f509624124.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/d1166d534037799c22d45190c79e0371.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/7d8907a6d94202a5febf851179699549.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/1c77613080a06aca28130db100cdebaf.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/8bece041cb0ddef80b5514b428574300.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/f9b954cb0feed9dd2f02a00b5067d72b.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/4efeb534103b1668b3c7d59d354069f0.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/a8e5c612a6a97d6987fa9b69ec6666b3.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center"><b>A Song's True Theme Stage 8</b></td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center"><b>3 Stars</b></td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center"><b>2</b></td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/8bece041cb0ddef80b5514b428574300.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/f9b954cb0feed9dd2f02a00b5067d72b.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/5fed4a855371389d2c0961bb5dab126a.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/a8e5c612a6a97d6987fa9b69ec6666b3.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/0309983ec200f627bc2d99f509624124.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/d1166d534037799c22d45190c79e0371.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/4efeb534103b1668b3c7d59d354069f0.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/1c77613080a06aca28130db100cdebaf.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center"><b>A Song's True Theme Stage 7</b></td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center"><b>3 Stars</b></td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center"><b>3</b></td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/0309983ec200f627bc2d99f509624124.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/d1166d534037799c22d45190c79e0371.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/4efeb534103b1668b3c7d59d354069f0.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/1c77613080a06aca28130db100cdebaf.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/8bece041cb0ddef80b5514b428574300.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/f9b954cb0feed9dd2f02a00b5067d72b.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/5fed4a855371389d2c0961bb5dab126a.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/a8e5c612a6a97d6987fa9b69ec6666b3.png"
+        height="18"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center"><b>A Song's True Theme Stage 6</b></td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center"><b>3 Stars</b></td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center"><b>0</b></td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center"><b>A Song's True Theme Stage 5</b></td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center"><b>3 Stars</b></td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center"><b>0</b></td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center"><b>A Song's True Theme Stage 4</b></td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center"><b>3 Stars</b></td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center"><b>0</b></td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center"><b>A Song's True Theme Stage 3</b></td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center"><b>3 Stars</b></td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center"><b>0</b></td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center"><b>A Song's True Theme Stage 2</b></td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center"><b>3 Stars</b></td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center"><b>0</b></td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td>Name</td>
+    <td align="center"><b>A Song's True Theme Stage 1</b></td>
+  </tr>
+  <tr>
+    <td>Floor</td>
+    <td align="center"><b>3 Stars</b></td>
+  </tr>
+  <tr>
+    <td>Cycles used</td>
+    <td align="center"><b>0</b></td>
+  </tr>
+  <tr>
+    <td>Party 1</td>
+    <td align="center"></td>
+  </tr>
+  <tr>
+    <td>Party 2</td>
+    <td align="center"></td>
   </tr>
 </table>
 <p align="center">
@@ -10876,10 +11265,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/1ea473eb1d482286238dfbbce6c6d9e5.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/a810a3e91f4e0c8d7cfe72b4781abffd.png"
             height="20"
           />
-          Trend of the Universal Market
+          Moment of Victory
         </h3>
       </th>
     </tr>
@@ -10894,7 +11283,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/1ea473eb1d482286238dfbbce6c6d9e5.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/a810a3e91f4e0c8d7cfe72b4781abffd.png"
           />
         </p>
       </td>
@@ -10984,7 +11373,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Trend of the Universal Market</td>
+            <td align="center">Moment of Victory</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -10992,7 +11381,7 @@
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
