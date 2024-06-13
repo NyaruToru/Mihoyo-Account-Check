@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jun 12, 2024 08:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 13, 2024 08:07 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -117,22 +117,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>12</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>13</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/07/30/7fa4c2853844b74ad571e01b686624a4_2044215887656003732.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Fried Radish Balls</b>
+      <b>2 x Adventurer's Experience</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-06-12 09:08:04+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-06-13 09:07:31+08:00</b></td>
   </tr>
 </table>
 
@@ -10034,22 +10034,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>12</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>13</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Condensed Aether</b>
+      <b>20 x Stellar Jade</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-06-12 09:08:06+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-06-13 09:07:34+08:00</b></td>
   </tr>
 </table>
 
@@ -10067,7 +10067,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>396</b></td>
+    <td><b>397</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -10092,7 +10092,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>3180</b> <code>(rate -78)</code></td>
+    <td align="center"><b>3480</b> <code>(rate -76)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -10113,9 +10113,9 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>1650</b> <code>(51%)</code><br />Forgotten Hall:
-      <b>660</b> <code>(20%)</code><br />Simulated Universe: <b>450</b>
-      <code>(14%)</code><br />Mail: <b>420</b> <code>(13%)</code><br />Other:
+      Daily Activity: <b>1950</b> <code>(56%)</code><br />Forgotten Hall:
+      <b>660</b> <code>(18%)</code><br />Simulated Universe: <b>450</b>
+      <code>(12%)</code><br />Mail: <b>420</b> <code>(12%)</code><br />Other:
       <b>0</b> <code>(2%)</code><br />Event: <b>0</b> <code>(0%)</code
       ><br />Adventure Rewards: <b>0</b> <code>(0%)</code><br />
     </td>
@@ -10771,20 +10771,20 @@
             <td>Planar</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/4ca5cdb17d037e7c98365244dcfe3840.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/046bb6c4e21bff57379671fed17249e8.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Vonwacq's Island of Birth<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/6c272f6d5f14b0990e21b3f7753ecc48.png"
+              Herta's Space Station<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/6e81c0839775ce2e528626126863bafd.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Vonwacq's Islandic Coast<br />
+              Herta's Wandering Trek<br />
             </td>
           </tr>
         </table>
