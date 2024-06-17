@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jun 16, 2024 08:12 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 17, 2024 08:10 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -117,22 +117,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>16</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>17</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
+          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
           ,
           height="80" /></a
       ><br />
-      <b>5 x Fine Enhancement Ore</b>
+      <b>5000 x Mora</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-06-16 09:12:52+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-06-17 09:10:04+08:00</b></td>
   </tr>
 </table>
 
@@ -766,12 +766,12 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      🕐 Start Time: <b>2024-05-31 20:00:00+00:00</b>
+      🕐 Start Time: <b>2024-06-01 04:00:00+08:00</b>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      🕛 End Time: <b>2024-06-15 19:59:59+00:00</b>
+      🕛 End Time: <b>2024-06-16 03:59:59+08:00</b>
     </td>
   </tr>
   <tr>
@@ -779,16 +779,16 @@
     <td>
       <img src="https://enka.network/ui/UI_AvatarIcon_Yae.png" , height="18" />
       <b>Yae Miko</b> <code>(8)</code><br /><img
-        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      <b>Kaedehara Kazuha</b> <code>(8)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
       <b>Zhongli</b> <code>(8)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      <b>Kaedehara Kazuha</b> <code>(8)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
@@ -10030,22 +10030,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>16</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>17</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Adventure Log</b>
+      <b>2 x Condensed Aether</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-06-16 09:12:54+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-06-17 09:10:04+08:00</b></td>
   </tr>
 </table>
 
@@ -10063,7 +10063,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>399</b></td>
+    <td><b>401</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -10088,7 +10088,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>3785</b> <code>(rate -74)</code></td>
+    <td align="center"><b>3935</b> <code>(rate -73)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -10109,8 +10109,8 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>2235</b> <code>(59%)</code><br />Forgotten Hall:
-      <b>660</b> <code>(17%)</code><br />Simulated Universe: <b>450</b>
+      Daily Activity: <b>2385</b> <code>(60%)</code><br />Forgotten Hall:
+      <b>660</b> <code>(16%)</code><br />Simulated Universe: <b>450</b>
       <code>(11%)</code><br />Mail: <b>440</b> <code>(11%)</code><br />Other:
       <b>0</b> <code>(2%)</code><br />Event: <b>0</b> <code>(0%)</code
       ><br />Adventure Rewards: <b>0</b> <code>(0%)</code><br />
@@ -11261,10 +11261,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/1ea473eb1d482286238dfbbce6c6d9e5.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/a810a3e91f4e0c8d7cfe72b4781abffd.png"
             height="20"
           />
-          Trend of the Universal Market
+          Moment of Victory
         </h3>
       </th>
     </tr>
@@ -11279,7 +11279,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/1ea473eb1d482286238dfbbce6c6d9e5.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/a810a3e91f4e0c8d7cfe72b4781abffd.png"
           />
         </p>
       </td>
@@ -11369,7 +11369,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Trend of the Universal Market</td>
+            <td align="center">Moment of Victory</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -11377,7 +11377,7 @@
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
