@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jun 17, 2024 08:10 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 18, 2024 08:08 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -117,22 +117,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>17</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>18</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/f4450e0ef470f777fca0b3dd95813734_1653002626503274756.png"
           ,
           height="80" /></a
       ><br />
-      <b>5000 x Mora</b>
+      <b>20 x Primogem</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-06-17 09:10:04+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-06-18 09:08:18+08:00</b></td>
   </tr>
 </table>
 
@@ -777,8 +777,7 @@
   <tr>
     <td>Most Played Characters</td>
     <td>
-      <img src="https://enka.network/ui/UI_AvatarIcon_Yae.png" , height="18" />
-      <b>Yae Miko</b> <code>(8)</code><br /><img
+      <img
         src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
@@ -789,6 +788,11 @@
         height="18"
       />
       <b>Kaedehara Kazuha</b> <code>(8)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Yae.png"
+        ,
+        height="18"
+      />
+      <b>Yae Miko</b> <code>(8)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Baizhuer.png"
         ,
         height="18"
@@ -10030,22 +10034,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>17</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>18</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Condensed Aether</b>
+      <b>2 x Lost Gold Fragment</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-06-17 09:10:04+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-06-18 09:08:19+08:00</b></td>
   </tr>
 </table>
 
@@ -10063,7 +10067,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>401</b></td>
+    <td><b>402</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -10071,7 +10075,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>516</b></td>
+    <td><b>517</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -10088,7 +10092,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>3935</b> <code>(rate -73)</code></td>
+    <td align="center"><b>4290</b> <code>(rate -71)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -10098,7 +10102,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>14</b> <code>(rate -64)</code></td>
+    <td align="center"><b>15</b> <code>(rate -61)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -10109,10 +10113,10 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>2385</b> <code>(60%)</code><br />Forgotten Hall:
-      <b>660</b> <code>(16%)</code><br />Simulated Universe: <b>450</b>
-      <code>(11%)</code><br />Mail: <b>440</b> <code>(11%)</code><br />Other:
-      <b>0</b> <code>(2%)</code><br />Event: <b>0</b> <code>(0%)</code
+      Daily Activity: <b>2625</b> <code>(61%)</code><br />Forgotten Hall:
+      <b>660</b> <code>(15%)</code><br />Simulated Universe: <b>565</b>
+      <code>(13%)</code><br />Mail: <b>440</b> <code>(10%)</code><br />Other:
+      <b>0</b> <code>(1%)</code><br />Event: <b>0</b> <code>(0%)</code
       ><br />Adventure Rewards: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
@@ -10139,7 +10143,7 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td align="center"><b>9</b></td>
+    <td align="center"><b>10</b></td>
   </tr>
   <tr>
     <td>Total Stars</td>
@@ -11168,13 +11172,13 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/b64350f8478ee8640e1162e5b5854fc0.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/2c983af6a1551baa02baa45cd65b1f9e.png"
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+12</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Grand Duke's Crown of Netherflame<br /><img
+              Firesmith's Obsidian Goggles<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/05b984e639e7398ed502827309c28bcc.png"
                 ,
                 height="25"
@@ -11406,10 +11410,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/de4523a51958cdeb58e60888a625deb3.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/d2a490098c73799aa1c46e193eaa9266.png"
             height="20"
           />
-          Memories of the Past
+          But the Battle Isn't Over
         </h3>
       </th>
     </tr>
@@ -11424,7 +11428,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/de4523a51958cdeb58e60888a625deb3.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/d2a490098c73799aa1c46e193eaa9266.png"
           />
         </p>
       </td>
@@ -11514,15 +11518,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Memories of the Past</td>
+            <td align="center">But the Battle Isn't Over</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+70</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -12993,13 +12997,13 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/2c983af6a1551baa02baa45cd65b1f9e.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/b64350f8478ee8640e1162e5b5854fc0.png"
                 ,
                 height="25"
               />
-              <code>+12</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Firesmith's Obsidian Goggles<br /><img
+              Grand Duke's Crown of Netherflame<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/834a4a0535c85ea563b71b1ad4b518f6.png"
                 ,
                 height="25"
@@ -13761,7 +13765,16 @@
           </tr>
           <tr>
             <td>Relics</td>
-            <td align="center"></td>
+            <td align="center">
+              <img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u3294b/e0f4c2e89f7a6bed2b187df337692493.png"
+                ,
+                height="25"
+              />
+              <code>+0</code><br />
+              ⭐⭐⭐⭐⭐<br />
+              Watchmaker's Dream-Concealing Dress Shoes<br />
+            </td>
           </tr>
         </table>
       </td>
