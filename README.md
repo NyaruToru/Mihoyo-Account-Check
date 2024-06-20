@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jun 19, 2024 08:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 20, 2024 08:06 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -117,22 +117,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>19</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>20</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/07/30/3e7e2d97ddb311b7c322e6fcc41f19b2_321917890547231846.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Fisherman's Toast</b>
+      <b>3 x Adventurer's Experience</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-06-19 09:08:25+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-06-20 09:06:27+08:00</b></td>
   </tr>
 </table>
 
@@ -778,16 +778,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
-        ,
-        height="18"
-      />
-      <b>Kaedehara Kazuha</b> <code>(8)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
       <b>Zhongli</b> <code>(8)</code><br /><img
+        src="https://enka.network/ui/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      <b>Kaedehara Kazuha</b> <code>(8)</code><br /><img
         src="https://enka.network/ui/UI_AvatarIcon_Yae.png"
         ,
         height="18"
@@ -10034,22 +10034,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>19</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>20</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/0b12bdf76fa4abc6b4d1fdfc0fb4d6f5_2712063163188347613.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/77cb5426637574ba524ac458fa963da0_366369025300461262.png"
           ,
           height="80" /></a
       ><br />
-      <b>8000 x Credit</b>
+      <b>20 x Stellar Jade</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-06-19 09:08:26+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-06-20 09:06:28+08:00</b></td>
   </tr>
 </table>
 
@@ -10067,7 +10067,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>402</b></td>
+    <td><b>404</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -10075,7 +10075,7 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>517</b></td>
+    <td><b>521</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
@@ -10092,7 +10092,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>4355</b> <code>(rate -70)</code></td>
+    <td align="center"><b>7970</b> <code>(rate -46)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -10102,7 +10102,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>15</b> <code>(rate -61)</code></td>
+    <td align="center"><b>18</b> <code>(rate -53)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -10113,11 +10113,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>2685</b> <code>(61%)</code><br />Forgotten Hall:
-      <b>660</b> <code>(15%)</code><br />Simulated Universe: <b>565</b>
-      <code>(12%)</code><br />Mail: <b>440</b> <code>(10%)</code><br />Other:
-      <b>0</b> <code>(2%)</code><br />Event: <b>0</b> <code>(0%)</code
-      ><br />Adventure Rewards: <b>5</b> <code>(0%)</code><br />
+      Daily Activity: <b>2835</b> <code>(35%)</code><br />Simulated Universe:
+      <b>2415</b> <code>(30%)</code><br />Forgotten Hall: <b>1220</b>
+      <code>(15%)</code><br />Mail: <b>1120</b> <code>(14%)</code><br />Event:
+      <b>340</b> <code>(4%)</code><br />Other: <b>15</b> <code>(2%)</code
+      ><br />Adventure Rewards: <b>25</b> <code>(0%)</code><br />
     </td>
   </tr>
 </table>
@@ -10586,7 +10586,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>6</code></td>
           </tr>
           <tr>
             <td>Relics</td>
@@ -13347,7 +13347,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+70</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
@@ -13761,7 +13761,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>6</code></td>
           </tr>
           <tr>
             <td>Relics</td>
@@ -14321,7 +14321,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>0</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
           <tr>
             <td>Relics</td>
@@ -14491,7 +14491,7 @@
           </tr>
           <tr>
             <td>Eidolon</td>
-            <td align="center"><code>2</code></td>
+            <td align="center"><code>4</code></td>
           </tr>
           <tr>
             <td>Relics</td>
