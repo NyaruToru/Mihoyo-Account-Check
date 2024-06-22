@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jun 21, 2024 08:07 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 22, 2024 08:06 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -117,22 +117,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>21</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>22</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://webstatic.hoyoverse.com/upload/static-resource/2022/08/12/bddc10e07950d708a371861e7be32928_4601996924011219727.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
           ,
           height="80" /></a
       ><br />
-      <b>8000 x Mora</b>
+      <b>5 x Adventurer's Experience</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-06-21 09:07:02+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-06-22 09:06:38+08:00</b></td>
   </tr>
 </table>
 
@@ -10034,22 +10034,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>21</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>22</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Adventure Log</b>
+      <b>2 x Condensed Aether</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-06-21 09:07:04+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-06-22 09:06:41+08:00</b></td>
   </tr>
 </table>
 
@@ -10067,7 +10067,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>405</b></td>
+    <td><b>406</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -10092,7 +10092,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>8635</b> <code>(rate -42)</code></td>
+    <td align="center"><b>9115</b> <code>(rate -39)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -10102,7 +10102,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>20</b> <code>(rate -48)</code></td>
+    <td align="center"><b>23</b> <code>(rate -41)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -10113,9 +10113,9 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>2985</b> <code>(34%)</code><br />Simulated Universe:
-      <b>2605</b> <code>(30%)</code><br />Forgotten Hall: <b>1520</b>
-      <code>(17%)</code><br />Mail: <b>1140</b> <code>(13%)</code><br />Event:
+      Daily Activity: <b>3225</b> <code>(35%)</code><br />Simulated Universe:
+      <b>2845</b> <code>(31%)</code><br />Forgotten Hall: <b>1520</b>
+      <code>(16%)</code><br />Mail: <b>1140</b> <code>(12%)</code><br />Event:
       <b>340</b> <code>(3%)</code><br />Other: <b>15</b> <code>(3%)</code
       ><br />Adventure Rewards: <b>30</b> <code>(0%)</code><br />
     </td>
@@ -11313,10 +11313,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/eda5ec1df6a105ebb3f98f62b3be6786.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/494053ab64821202bd8dc09f6c991e74.png"
             height="20"
           />
-          Trend of the Universal Market
+          Moment of Victory
         </h3>
       </th>
     </tr>
@@ -11331,7 +11331,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/eda5ec1df6a105ebb3f98f62b3be6786.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/494053ab64821202bd8dc09f6c991e74.png"
           />
         </p>
       </td>
@@ -11399,20 +11399,20 @@
             <td>Planar</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/2114ea783596ec840210963fec1f39fc.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/a915041acfacd01231ef401f9f864ae5.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Insumousu's Whalefall Ship<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/31b36511ef0c05817d1853b5b1fdf862.png"
+              Belobog's Fortress of Preservation<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/b01bcac16f1b37c8d8f5d5c689d648b1.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Insumousu's Frayed Hawser<br />
+              Belobog's Iron Defense<br />
             </td>
           </tr>
         </table>
@@ -11421,7 +11421,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Trend of the Universal Market</td>
+            <td align="center">Moment of Victory</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -11429,7 +11429,7 @@
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -12328,10 +12328,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/494053ab64821202bd8dc09f6c991e74.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/eda5ec1df6a105ebb3f98f62b3be6786.png"
             height="20"
           />
-          Moment of Victory
+          Trend of the Universal Market
         </h3>
       </th>
     </tr>
@@ -12346,7 +12346,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/494053ab64821202bd8dc09f6c991e74.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/eda5ec1df6a105ebb3f98f62b3be6786.png"
           />
         </p>
       </td>
@@ -12394,33 +12394,33 @@
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Knight's Silent Oath Ring<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/eb55f601e8a671cb8ac60dcf804f103d.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/4923080d400bc740a441c93059425f8c.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Pioneer's Sealed Lead Apron<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/6d19616cce0f3c4ac6badcbf517bca24.png"
+              Knight's Solemn Breastplate<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/f590a6b400b6ef291ffcde3f393d6b49.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Pioneer's Starfaring Anchor<br />
+              Knight's Iron Boots of Order<br />
             </td>
           </tr>
           <tr>
             <td>Planar</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/a915041acfacd01231ef401f9f864ae5.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/2114ea783596ec840210963fec1f39fc.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Belobog's Fortress of Preservation<br /><img
+              Insumousu's Whalefall Ship<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/b01bcac16f1b37c8d8f5d5c689d648b1.png"
                 ,
                 height="25"
@@ -12436,7 +12436,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Moment of Victory</td>
+            <td align="center">Trend of the Universal Market</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -12444,7 +12444,7 @@
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -12812,7 +12812,7 @@
                 ,
                 height="25"
               />
-              <code>+3</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Watchmaker's Telescoping Lens<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/47a043edc1a0fe6c47c03320ea57b200.png"
@@ -12833,7 +12833,7 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Watchmaker's Dream-Concealing Dress Shoes<br />
             </td>
@@ -13247,7 +13247,7 @@
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+3</code><br />
               ⭐⭐⭐⭐⭐<br />
               Watchmaker's Telescoping Lens<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/c3ce87fd1356218f8007e3620e855e9d.png"
@@ -13268,7 +13268,7 @@
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
               Watchmaker's Dream-Concealing Dress Shoes<br />
             </td>
