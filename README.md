@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jun 22, 2024 08:06 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 23, 2024 08:12 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -117,22 +117,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>22</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>23</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
           ,
           height="80" /></a
       ><br />
-      <b>5 x Adventurer's Experience</b>
+      <b>5 x Fine Enhancement Ore</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-06-22 09:06:38+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-06-23 09:11:58+08:00</b></td>
   </tr>
 </table>
 
@@ -10034,22 +10034,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>22</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>23</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6425584a05316b3391818d90c8fd1905_3188660902287416580.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Condensed Aether</b>
+      <b>2 x Lost Gold Fragment</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-06-22 09:06:41+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-06-23 09:11:59+08:00</b></td>
   </tr>
 </table>
 
@@ -10067,7 +10067,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>406</b></td>
+    <td><b>407</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -10075,11 +10075,11 @@
   </tr>
   <tr>
     <td>Total Achievement</td>
-    <td><b>522</b></td>
+    <td><b>530</b></td>
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td><b>702</b></td>
+    <td><b>714</b></td>
   </tr>
 </table>
 
@@ -10092,7 +10092,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>9115</b> <code>(rate -39)</code></td>
+    <td align="center"><b>11000</b> <code>(rate -26)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -10102,7 +10102,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>23</b> <code>(rate -41)</code></td>
+    <td align="center"><b>24</b> <code>(rate -38)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -10113,11 +10113,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>3225</b> <code>(35%)</code><br />Simulated Universe:
-      <b>2845</b> <code>(31%)</code><br />Forgotten Hall: <b>1520</b>
-      <code>(16%)</code><br />Mail: <b>1140</b> <code>(12%)</code><br />Event:
-      <b>340</b> <code>(3%)</code><br />Other: <b>15</b> <code>(3%)</code
-      ><br />Adventure Rewards: <b>30</b> <code>(0%)</code><br />
+      Daily Activity: <b>3285</b> <code>(29%)</code><br />Simulated Universe:
+      <b>3095</b> <code>(28%)</code><br />Forgotten Hall: <b>1520</b>
+      <code>(13%)</code><br />Event: <b>1420</b> <code>(12%)</code><br />Mail:
+      <b>1140</b> <code>(10%)</code><br />Adventure Rewards: <b>525</b>
+      <code>(4%)</code><br />Other: <b>15</b> <code>(4%)</code><br />
     </td>
   </tr>
 </table>
@@ -11220,13 +11220,13 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/7ebd23193cfa6efd313e47cd4f1a722c.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/bf0769d8cded4fa76f4ea434a0ab0eb8.png"
                 ,
                 height="25"
               />
-              <code>+12</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Firesmith's Obsidian Goggles<br /><img
+              Grand Duke's Crown of Netherflame<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/00d95ae35a1e6720fb6387729a38e8bb.png"
                 ,
                 height="25"
@@ -11254,20 +11254,20 @@
             <td>Planar</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/84a7ade26ff4b5f7ce4a61c2a2ef3036.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/b0515b36099e5347a81933be525b2af6.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Salsotto's Moving City<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/c619c558cd2afc6358cdcf0f125e7928.png"
+              Glamoth's Iron Cavalry Regiment<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/89e7b5eec98e5a1cc10d7f8ee76bcd43.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Salsotto's Terminator Line<br />
+              Glamoth's Silent Tombstone<br />
             </td>
           </tr>
         </table>
