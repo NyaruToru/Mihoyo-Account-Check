@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jun 28, 2024 08:08 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 28, 2024 19:29 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -10079,7 +10079,7 @@
   </tr>
   <tr>
     <td>Chests Opened</td>
-    <td><b>714</b></td>
+    <td><b>715</b></td>
   </tr>
 </table>
 
@@ -10092,7 +10092,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>12390</b> <code>(rate -17)</code></td>
+    <td align="center"><b>12635</b> <code>(rate -15)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -10113,10 +10113,10 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>4125</b> <code>(33%)</code><br />Simulated Universe:
-      <b>3600</b> <code>(29%)</code><br />Forgotten Hall: <b>1520</b>
+      Daily Activity: <b>4185</b> <code>(33%)</code><br />Simulated Universe:
+      <b>3780</b> <code>(29%)</code><br />Forgotten Hall: <b>1520</b>
       <code>(12%)</code><br />Event: <b>1440</b> <code>(11%)</code><br />Mail:
-      <b>1140</b> <code>(9%)</code><br />Adventure Rewards: <b>550</b>
+      <b>1140</b> <code>(9%)</code><br />Adventure Rewards: <b>555</b>
       <code>(4%)</code><br />Other: <b>15</b> <code>(2%)</code><br />
     </td>
   </tr>
@@ -11168,10 +11168,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/f5c7ba16212176a9fabd894ff6c810e0.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/f5fb71fa01ebddfc0e832cc1b36eea5e.png"
             height="20"
           />
-          Darting Arrow
+          Cruising in the Stellar Sea
         </h3>
       </th>
     </tr>
@@ -11186,7 +11186,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/f5c7ba16212176a9fabd894ff6c810e0.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/f5fb71fa01ebddfc0e832cc1b36eea5e.png"
           />
         </p>
       </td>
@@ -11276,15 +11276,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Darting Arrow</td>
+            <td align="center">Cruising in the Stellar Sea</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+70</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>3</code></td>
           </tr>
         </table>
       </td>
@@ -11510,20 +11510,20 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/33cb9ff68d36cf003113b8c116d33223.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/c078c6f51b8e12a5e171a118661b8151.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Messenger's Holovisor<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/9450994111331926fbc37cd5278305cb.png"
+              Watchmaker's Telescoping Lens<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/d8d7a6fc7dcb0faaae2a3633ac622031.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Watchmaker's Fortuitous Wristwatch<br /><img
+              Thief's Gloves With Prints<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/d633cf1d46a6e416e082f18a6da35e8c.png"
                 ,
                 height="25"
@@ -12473,10 +12473,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/f5fb71fa01ebddfc0e832cc1b36eea5e.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/f5c7ba16212176a9fabd894ff6c810e0.png"
             height="20"
           />
-          Cruising in the Stellar Sea
+          Darting Arrow
         </h3>
       </th>
     </tr>
@@ -12491,7 +12491,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/f5fb71fa01ebddfc0e832cc1b36eea5e.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/f5c7ba16212176a9fabd894ff6c810e0.png"
           />
         </p>
       </td>
@@ -12581,15 +12581,15 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Cruising in the Stellar Sea</td>
+            <td align="center">Darting Arrow</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+80</code></td>
+            <td align="center"><code>+70</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>3</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -12681,7 +12681,7 @@
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
               Messenger's Transformative Arm<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/bf5c7671b4295f033d549832dd47e2b5.png"
@@ -12704,18 +12704,18 @@
             <td>Planar</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/2114ea783596ec840210963fec1f39fc.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/a915041acfacd01231ef401f9f864ae5.png"
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Insumousu's Whalefall Ship<br /><img
+              Belobog's Fortress of Preservation<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/31b36511ef0c05817d1853b5b1fdf862.png"
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+13</code><br />
               ⭐⭐⭐⭐⭐<br />
               Insumousu's Frayed Hawser<br />
             </td>
@@ -12815,13 +12815,13 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/c078c6f51b8e12a5e171a118661b8151.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/625600221929af82ef9d9ea11e88e183.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Watchmaker's Telescoping Lens<br /><img
+              Thief's Myriad-Faced Mask<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/47a043edc1a0fe6c47c03320ea57b200.png"
                 ,
                 height="25"
@@ -12840,7 +12840,7 @@
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
               Watchmaker's Dream-Concealing Dress Shoes<br />
             </td>
@@ -13105,20 +13105,20 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/625600221929af82ef9d9ea11e88e183.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/33cb9ff68d36cf003113b8c116d33223.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Thief's Myriad-Faced Mask<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/d8d7a6fc7dcb0faaae2a3633ac622031.png"
+              Messenger's Holovisor<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/9450994111331926fbc37cd5278305cb.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Thief's Gloves With Prints<br /><img
+              Watchmaker's Fortuitous Wristwatch<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/d633cf1d46a6e416e082f18a6da35e8c.png"
                 ,
                 height="25"
@@ -13254,14 +13254,14 @@
                 ,
                 height="25"
               />
-              <code>+3</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Watchmaker's Telescoping Lens<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/c3ce87fd1356218f8007e3620e855e9d.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Messenger's Transformative Arm<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/bf5c7671b4295f033d549832dd47e2b5.png"
@@ -13275,7 +13275,7 @@
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Watchmaker's Dream-Concealing Dress Shoes<br />
             </td>
@@ -13284,18 +13284,18 @@
             <td>Planar</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/a915041acfacd01231ef401f9f864ae5.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/2114ea783596ec840210963fec1f39fc.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Belobog's Fortress of Preservation<br /><img
+              Insumousu's Whalefall Ship<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/31b36511ef0c05817d1853b5b1fdf862.png"
                 ,
                 height="25"
               />
-              <code>+13</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Insumousu's Frayed Hawser<br />
             </td>
