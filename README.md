@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jun 29, 2024 19:28 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jun 30, 2024 08:13 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -117,7 +117,7 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>29</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>30</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -132,7 +132,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-06-29 09:06:49+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-06-30 09:13:43+08:00</b></td>
   </tr>
 </table>
 
@@ -10034,7 +10034,7 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>29</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>30</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -10049,7 +10049,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-06-29 09:06:54+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-06-30 09:13:46+08:00</b></td>
   </tr>
 </table>
 
@@ -10067,7 +10067,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>413</b></td>
+    <td><b>414</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -10092,7 +10092,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>12785</b> <code>(rate -14)</code></td>
+    <td align="center"><b>13575</b> <code>(rate -9)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -10102,7 +10102,7 @@
       />
       Pass & Special Pass earned
     </td>
-    <td align="center"><b>30</b> <code>(rate -23)</code></td>
+    <td align="center"><b>36</b> <code>(rate -7)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -10113,11 +10113,11 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>4335</b> <code>(33%)</code><br />Simulated Universe:
-      <b>3780</b> <code>(29%)</code><br />Event: <b>1440</b> <code>(11%)</code
-      ><br />Forgotten Hall: <b>1520</b> <code>(11%)</code><br />Mail:
-      <b>1140</b> <code>(8%)</code><br />Adventure Rewards: <b>555</b>
-      <code>(4%)</code><br />Other: <b>15</b> <code>(4%)</code><br />
+      Daily Activity: <b>4445</b> <code>(32%)</code><br />Simulated Universe:
+      <b>3780</b> <code>(27%)</code><br />Forgotten Hall: <b>1520</b>
+      <code>(11%)</code><br />Event: <b>1440</b> <code>(10%)</code><br />Mail:
+      <b>1140</b> <code>(8%)</code><br />Other: <b>695</b> <code>(8%)</code
+      ><br />Adventure Rewards: <b>555</b> <code>(4%)</code><br />
     </td>
   </tr>
 </table>
@@ -10143,7 +10143,7 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td align="center"><b>12</b></td>
+    <td align="center"><b>17</b></td>
   </tr>
   <tr>
     <td>Total Stars</td>
@@ -10451,11 +10451,39 @@
   </tr>
   <tr>
     <td>Party 1</td>
-    <td align="center"></td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/1adf45ce6c08f8c439cc7a0caa907dc1.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/c8bdedaef567894ecd406075e28e50eb.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/10e32763601cc5935679823b80d12368.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/7613dfa32e6a909576b29c6c1ba35ec5.png"
+        height="18"
+      />
+    </td>
   </tr>
   <tr>
     <td>Party 2</td>
-    <td align="center"></td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/91447cf3d0a02f90fc6452d07fd9a1cd.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/b1136c5c04b8b3291db9eb6eaf8abe3c.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/0365aafea2f49d8fa2a5d8e73fad72d7.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/9198901f53c2096a81b132b4bda1de8c.png"
+        height="18"
+      />
+    </td>
   </tr>
   <tr>
     <td>Name</td>
@@ -10491,11 +10519,39 @@
   </tr>
   <tr>
     <td>Party 1</td>
-    <td align="center"></td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/91447cf3d0a02f90fc6452d07fd9a1cd.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/b1136c5c04b8b3291db9eb6eaf8abe3c.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/0365aafea2f49d8fa2a5d8e73fad72d7.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/9198901f53c2096a81b132b4bda1de8c.png"
+        height="18"
+      />
+    </td>
   </tr>
   <tr>
     <td>Party 2</td>
-    <td align="center"></td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/1adf45ce6c08f8c439cc7a0caa907dc1.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/c8bdedaef567894ecd406075e28e50eb.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/10e32763601cc5935679823b80d12368.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/7613dfa32e6a909576b29c6c1ba35ec5.png"
+        height="18"
+      />
+    </td>
   </tr>
   <tr>
     <td>Name</td>
@@ -10531,11 +10587,39 @@
   </tr>
   <tr>
     <td>Party 1</td>
-    <td align="center"></td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/91447cf3d0a02f90fc6452d07fd9a1cd.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/b1136c5c04b8b3291db9eb6eaf8abe3c.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/0365aafea2f49d8fa2a5d8e73fad72d7.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/9198901f53c2096a81b132b4bda1de8c.png"
+        height="18"
+      />
+    </td>
   </tr>
   <tr>
     <td>Party 2</td>
-    <td align="center"></td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/1adf45ce6c08f8c439cc7a0caa907dc1.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/c8bdedaef567894ecd406075e28e50eb.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/10e32763601cc5935679823b80d12368.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/7613dfa32e6a909576b29c6c1ba35ec5.png"
+        height="18"
+      />
+    </td>
   </tr>
   <tr>
     <td>Name</td>
@@ -10551,11 +10635,39 @@
   </tr>
   <tr>
     <td>Party 1</td>
-    <td align="center"></td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/1adf45ce6c08f8c439cc7a0caa907dc1.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/c8bdedaef567894ecd406075e28e50eb.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/10e32763601cc5935679823b80d12368.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/7613dfa32e6a909576b29c6c1ba35ec5.png"
+        height="18"
+      />
+    </td>
   </tr>
   <tr>
     <td>Party 2</td>
-    <td align="center"></td>
+    <td align="center">
+      <img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/91447cf3d0a02f90fc6452d07fd9a1cd.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/b1136c5c04b8b3291db9eb6eaf8abe3c.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/0365aafea2f49d8fa2a5d8e73fad72d7.png"
+        height="18"
+      /><img
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/9198901f53c2096a81b132b4bda1de8c.png"
+        height="18"
+      />
+    </td>
   </tr>
 </table>
 <p align="center">
