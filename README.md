@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 01, 2024 19:31 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 02, 2024 08:08 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -117,22 +117,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>1</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>2</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2021/02/25/01ba12730bd86c8858c1e2d86c7d150d_5665148762126820826.png"
+          src="https://upload-static.hoyoverse.com/event/2021/02/25/22542ef6122f5ad4ac1c3834d11cdfb4_8505332314511574414.png"
           ,
           height="80" /></a
       ><br />
-      <b>3 x Adventurer's Experience</b>
+      <b>3 x Fine Enhancement Ore</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-07-01 09:15:49+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-07-02 09:08:39+08:00</b></td>
   </tr>
 </table>
 
@@ -10034,22 +10034,22 @@
 </h2>
 <table align="center">
   <tr>
-    <td align="center"><b>Total Rewards Claimed:</b> <code>1</code></td>
+    <td align="center"><b>Total Rewards Claimed:</b> <code>2</code></td>
   </tr>
   <tr>
     <td align="center">
       <b>Last Claimed Reward:</b><br /><a
         href="https://act.hoyolab.com/bbs/event/signin/hkrpg/index.html?act_id=e202303301540311"
         ><img
-          src="https://upload-static.hoyoverse.com/event/2023/03/28/5ec24224c0e731d65270c6f2310e84a4_657118753314638166.png"
+          src="https://upload-static.hoyoverse.com/event/2023/03/28/6b6ff68f20a7d6d647ca02a7fe5e7a6a_9057130556670479074.png"
           ,
           height="80" /></a
       ><br />
-      <b>2 x Adventure Log</b>
+      <b>1 x Condensed Aether</b>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Last Checked: 🕒 2024-07-01 09:15:51+08:00</b></td>
+    <td align="center"><b>Last Checked: 🕒 2024-07-02 09:08:40+08:00</b></td>
   </tr>
 </table>
 
@@ -10067,7 +10067,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>415</b></td>
+    <td><b>416</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -10092,7 +10092,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>560</b> <code>(rate -95)</code></td>
+    <td align="center"><b>650</b> <code>(rate -95)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -10113,9 +10113,9 @@
       Categories
     </td>
     <td>
-      Simulated Universe: <b>345</b> <code>(61%)</code><br />Daily Activity:
-      <b>150</b> <code>(26%)</code><br />Adventure Rewards: <b>65</b>
-      <code>(11%)</code><br />Other: <b>0</b> <code>(2%)</code><br />Event:
+      Simulated Universe: <b>345</b> <code>(53%)</code><br />Daily Activity:
+      <b>240</b> <code>(36%)</code><br />Adventure Rewards: <b>65</b>
+      <code>(10%)</code><br />Other: <b>0</b> <code>(1%)</code><br />Event:
       <b>0</b> <code>(0%)</code><br />Forgotten Hall: <b>0</b> <code>(0%)</code
       ><br />Mail: <b>0</b> <code>(0%)</code><br />
     </td>
@@ -10143,7 +10143,7 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td align="center"><b>17</b></td>
+    <td align="center"><b>20</b></td>
   </tr>
   <tr>
     <td>Total Stars</td>
@@ -10159,7 +10159,7 @@
   </tr>
   <tr>
     <td>Cycles used</td>
-    <td align="center"><b>8</b></td>
+    <td align="center"><b>7</b></td>
   </tr>
   <tr>
     <td>Party 1</td>
@@ -10171,7 +10171,7 @@
         src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/c8bdedaef567894ecd406075e28e50eb.png"
         height="18"
       /><img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/633a3951ec54c945a327869596692f99.png"
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/10e32763601cc5935679823b80d12368.png"
         height="18"
       /><img
         src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/7613dfa32e6a909576b29c6c1ba35ec5.png"
@@ -10183,7 +10183,7 @@
     <td>Party 2</td>
     <td align="center">
       <img
-        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/1800fe1af78711a44fe83a39e065f810.png"
+        src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/8c236e078a2dea456d3703fa639f9704.png"
         height="18"
       /><img
         src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/c86829af64b2631c2c3b502335f8efb4.png"
