@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 06, 2024 08:06 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 06, 2024 19:27 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -170,7 +170,7 @@
       />
       Days Active
     </td>
-    <td align="center"><b>1000</b></td>
+    <td align="center"><b>1001</b></td>
   </tr>
   <tr>
     <td>
@@ -278,7 +278,7 @@
     <td>
       <img src="./images/logo/domain.webp" , height="18" /> Domains Unlocked
     </td>
-    <td align="center"><b>55</b></td>
+    <td align="center"><b>56</b></td>
   </tr>
   <tr>
     <td>
@@ -10067,7 +10067,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>419</b></td>
+    <td><b>420</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -10092,7 +10092,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>1280</b> <code>(rate -90)</code></td>
+    <td align="center"><b>1490</b> <code>(rate -89)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -10113,10 +10113,10 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>750</b> <code>(58%)</code><br />Simulated Universe:
-      <b>345</b> <code>(26%)</code><br />Adventure Rewards: <b>105</b>
-      <code>(8%)</code><br />Event: <b>60</b> <code>(4%)</code><br />Other:
-      <b>0</b> <code>(3%)</code><br />Mail: <b>20</b> <code>(1%)</code
+      Daily Activity: <b>900</b> <code>(60%)</code><br />Simulated Universe:
+      <b>345</b> <code>(23%)</code><br />Event: <b>120</b> <code>(8%)</code
+      ><br />Adventure Rewards: <b>105</b> <code>(7%)</code><br />Mail:
+      <b>20</b> <code>(1%)</code><br />Other: <b>0</b> <code>(1%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
@@ -11570,10 +11570,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/494053ab64821202bd8dc09f6c991e74.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/eda5ec1df6a105ebb3f98f62b3be6786.png"
             height="20"
           />
-          Moment of Victory
+          Trend of the Universal Market
         </h3>
       </th>
     </tr>
@@ -11588,7 +11588,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/494053ab64821202bd8dc09f6c991e74.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/eda5ec1df6a105ebb3f98f62b3be6786.png"
           />
         </p>
       </td>
@@ -11656,20 +11656,20 @@
             <td>Planar</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/a915041acfacd01231ef401f9f864ae5.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/2114ea783596ec840210963fec1f39fc.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Belobog's Fortress of Preservation<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/b01bcac16f1b37c8d8f5d5c689d648b1.png"
+              Insumousu's Whalefall Ship<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/31b36511ef0c05817d1853b5b1fdf862.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Belobog's Iron Defense<br />
+              Insumousu's Frayed Hawser<br />
             </td>
           </tr>
         </table>
@@ -11678,7 +11678,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Moment of Victory</td>
+            <td align="center">Trend of the Universal Market</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -11686,7 +11686,7 @@
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
@@ -11827,7 +11827,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td align="center"><code>+70</code></td>
+            <td align="center"><code>+80</code></td>
           </tr>
           <tr>
             <td>Superimpose</td>
@@ -12585,10 +12585,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/eda5ec1df6a105ebb3f98f62b3be6786.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/494053ab64821202bd8dc09f6c991e74.png"
             height="20"
           />
-          Trend of the Universal Market
+          Moment of Victory
         </h3>
       </th>
     </tr>
@@ -12603,7 +12603,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/eda5ec1df6a105ebb3f98f62b3be6786.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/494053ab64821202bd8dc09f6c991e74.png"
           />
         </p>
       </td>
@@ -12671,13 +12671,13 @@
             <td>Planar</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/2114ea783596ec840210963fec1f39fc.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/a915041acfacd01231ef401f9f864ae5.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Insumousu's Whalefall Ship<br /><img
+              Belobog's Fortress of Preservation<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/b01bcac16f1b37c8d8f5d5c689d648b1.png"
                 ,
                 height="25"
@@ -12693,7 +12693,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Trend of the Universal Market</td>
+            <td align="center">Moment of Victory</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -12701,7 +12701,7 @@
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -12948,13 +12948,13 @@
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Messenger's Secret Satchel<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/1f77ac289b66055645c590f62c654ca4.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/ebbbe07d5b631e005380ed5e24b2c4f8.png"
                 ,
                 height="25"
               />
-              <code>+15</code><br />
+              <code>+0</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Messenger's Par-kool Sneakers<br />
+              Watchmaker's Dream-Concealing Dress Shoes<br />
             </td>
           </tr>
           <tr>
@@ -13072,13 +13072,13 @@
             <td>Relics</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/625600221929af82ef9d9ea11e88e183.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/7c5d4da18ada0bdb6339de7b5b8231ea.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Thief's Myriad-Faced Mask<br /><img
+              Genius's Ultraremote Sensing Visor<br /><img
                 src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/47a043edc1a0fe6c47c03320ea57b200.png"
                 ,
                 height="25"
@@ -13093,33 +13093,33 @@
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
               Genius's Metafield Suit<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/ebbbe07d5b631e005380ed5e24b2c4f8.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/013c146c7423436babac48ede3ab667f.png"
                 ,
                 height="25"
               />
-              <code>+0</code><br />
+              <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Watchmaker's Dream-Concealing Dress Shoes<br />
+              Genius's Gravity Walker<br />
             </td>
           </tr>
           <tr>
             <td>Planar</td>
             <td align="center">
               <img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/bd5dcf51fbb9ccac1dbfec007519460b.png"
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/78dce0c51b0564e1d50793e636b730a0.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Vonwacq's Island of Birth<br /><img
-                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/a69be7167a2093ddb9771c34a110e5ee.png"
+              The IPC's Mega HQ<br /><img
+                src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/8105f7fa2d8ece948648128e5d9d0b5d.png"
                 ,
                 height="25"
               />
               <code>+15</code><br />
               ⭐⭐⭐⭐⭐<br />
-              Vonwacq's Islandic Coast<br />
+              The IPC's Trade Route<br />
             </td>
           </tr>
         </table>
