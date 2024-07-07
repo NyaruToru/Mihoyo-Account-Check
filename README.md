@@ -59,7 +59,7 @@
   <tr></tr>
 </table>
 <h3 align="center">
-  🕒 Updated at <u>Jul 07, 2024 08:14 +0700</u> (🤖Automated)
+  🕒 Updated at <u>Jul 07, 2024 19:27 +0700</u> (🤖Automated)
 </h3>
 
 <p align="center">
@@ -10067,7 +10067,7 @@
 <table align="center">
   <tr>
     <td>Days Active</td>
-    <td><b>420</b></td>
+    <td><b>421</b></td>
   </tr>
   <tr>
     <td>Total Avatar</td>
@@ -10092,7 +10092,7 @@
     <td align="center">
       <img src="images/logo/stellar_jade.png" height="18" /> Stellar Jade earned
     </td>
-    <td align="center"><b>1490</b> <code>(rate -89)</code></td>
+    <td align="center"><b>1700</b> <code>(rate -87)</code></td>
   </tr>
   <tr>
     <td align="center">
@@ -10113,10 +10113,10 @@
       Categories
     </td>
     <td>
-      Daily Activity: <b>900</b> <code>(60%)</code><br />Simulated Universe:
-      <b>345</b> <code>(23%)</code><br />Event: <b>120</b> <code>(8%)</code
-      ><br />Adventure Rewards: <b>105</b> <code>(7%)</code><br />Mail:
-      <b>20</b> <code>(1%)</code><br />Other: <b>0</b> <code>(1%)</code
+      Daily Activity: <b>1050</b> <code>(61%)</code><br />Simulated Universe:
+      <b>345</b> <code>(20%)</code><br />Event: <b>180</b> <code>(10%)</code
+      ><br />Adventure Rewards: <b>105</b> <code>(6%)</code><br />Other:
+      <b>0</b> <code>(2%)</code><br />Mail: <b>20</b> <code>(1%)</code
       ><br />Forgotten Hall: <b>0</b> <code>(0%)</code><br />
     </td>
   </tr>
@@ -11570,10 +11570,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/eda5ec1df6a105ebb3f98f62b3be6786.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/494053ab64821202bd8dc09f6c991e74.png"
             height="20"
           />
-          Trend of the Universal Market
+          Moment of Victory
         </h3>
       </th>
     </tr>
@@ -11588,7 +11588,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/eda5ec1df6a105ebb3f98f62b3be6786.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/494053ab64821202bd8dc09f6c991e74.png"
           />
         </p>
       </td>
@@ -11678,7 +11678,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Trend of the Universal Market</td>
+            <td align="center">Moment of Victory</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -11686,7 +11686,7 @@
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>5</code></td>
+            <td align="center"><code>1</code></td>
           </tr>
         </table>
       </td>
@@ -12585,10 +12585,10 @@
       <th align="center">
         <h3>
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/494053ab64821202bd8dc09f6c991e74.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/eda5ec1df6a105ebb3f98f62b3be6786.png"
             height="20"
           />
-          Moment of Victory
+          Trend of the Universal Market
         </h3>
       </th>
     </tr>
@@ -12603,7 +12603,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/494053ab64821202bd8dc09f6c991e74.png"
+            src="https://act-webstatic.hoyoverse.com/darkmatter/hkrpg/prod_gf_cn/item_icon_u14b7b/eda5ec1df6a105ebb3f98f62b3be6786.png"
           />
         </p>
       </td>
@@ -12693,7 +12693,7 @@
         <table align="center">
           <tr>
             <td>Name</td>
-            <td align="center">Moment of Victory</td>
+            <td align="center">Trend of the Universal Market</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -12701,7 +12701,7 @@
           </tr>
           <tr>
             <td>Superimpose</td>
-            <td align="center"><code>1</code></td>
+            <td align="center"><code>5</code></td>
           </tr>
         </table>
       </td>
